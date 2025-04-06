@@ -1,0 +1,2626 @@
+[
+  {
+    "name": "Shop on eBay",
+    "price": 2000,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Shop on eBay",
+    "price": 2000,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Tommy Armour Iron 845 TA-26  Bounce Wedge 60- 05 LH- New",
+    "price": 7998,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Nike Mach Speed Jr S Wedge RH ~23 inch shaft",
+    "price": 1979,
+    "status": "Pre-Owned",
+    "shipping": 3285,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club STEALTH 2 10.5* Driver Regular Graphite Value",
+    "price": 19499,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 MAX 9* Driver Stiff Graphite Value",
+    "price": 23899,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New Cobra Golf Darkspeed Hybrid 2024 Choose Club, Shaft & Flex",
+    "price": 14499,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 MAX 10.5* Driver Regular Graphite Value",
+    "price": 23899,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club STEALTH 2 9* Driver Stiff Graphite Value",
+    "price": 19499,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Cobra Golf Darkspeed X Fairway Wood 2024 Choose Shaft, Club & Flex",
+    "price": 17999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Cobra Golf Darkspeed X Fairway Wood 2024 Choose Shaft, Club & Flex",
+    "price": 17999,
+    "status": null,
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club STEALTH 2 HD 19* 5 Wood Senior Graphite Mint",
+    "price": 11999,
+    "status": null,
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club STEALTH 2 18* 5 Wood Regular Graphite New",
+    "price": 16199,
+    "status": null,
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club STEALTH 2 10.5* Driver Regular Graphite Value",
+    "price": 19499,
+    "status": null,
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 MAX 10.5* Driver Regular Graphite Very Good",
+    "price": 28499,
+    "status": null,
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 MAX 10.5* Driver Regular Graphite Mint",
+    "price": 32199,
+    "status": null,
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 21* 7 Wood Regular Graphite Mint",
+    "price": 21199,
+    "status": null,
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 15* 3 Wood Stiff Graphite Mint",
+    "price": 21199,
+    "status": null,
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 15* 3 Wood Stiff Graphite Mint",
+    "price": 21199,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Orlimar Golf Club Escape Hybrid Rescue Club NEW",
+    "price": 4985,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Stealth 2 Fairway Woods Mens Golf Club - New 2023",
+    "price": 14994,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 10.5* Driver Stiff Graphite Very Good",
+    "price": 28499,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Ultimate Ladies Womens Complete Golf Clubs Set 10 Pieces Includes Alloy Driver",
+    "price": 22099,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Lag Shot Putter (RIGHT HANDED) Golf Digest Best Swing Trainer of the Year!",
+    "price": 13900,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "2PCS GOLF ADAPTOR SLEEVE FOR CALLAWAY Paradym Ai Smoke Hybrid,Super Hybrids .370",
+    "price": 1698,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club STEALTH 2 HD 19* 5 Wood Senior Graphite Mint",
+    "price": 11999,
+    "status": "Certified - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club STEALTH 2 15* 3 Wood Stiff Graphite Value",
+    "price": 12899,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Orlimar Golf Club Escape Fairway Wood NEW",
+    "price": 5485,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 10.5* Driver Regular Graphite Value",
+    "price": 23899,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Mizuno Golf JPX 923 Fli-Hi Hybrid - Pick Club, Shaft & Flex",
+    "price": 8999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club STEALTH 2 HD 19* 5 Wood Senior Graphite Mint",
+    "price": 11999,
+    "status": "Certified - Refurbished",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club STEALTH 2 18* 5 Wood Regular Graphite New",
+    "price": 16199,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Mizuno JPX 925 Hot Metal HL - Single Irons - New 2025 - Custom",
+    "price": 15000,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Titleist Golf Club TSR2 24* 5H Hybrid Regular Graphite Very Good",
+    "price": 14699,
+    "status": "Pre-Owned",
+    "shipping": 699,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Titleist Golf Club TSR2 21* 4H Hybrid Regular Graphite Very Good",
+    "price": 15699,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Mizuno Golf JPX 923 Fli-Hi Hybrid - Pick Club, Shaft & Flex",
+    "price": 9999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Bettinardi HLX 5.0 Graphite PVD Wedge - Choose Club",
+    "price": 11999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Srixon Zx MkII 20 3 Utility Iron Stiff Flex Recoil Dart 90 Graphite Good",
+    "price": 13004,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "PXG GEN 5 Driver - Excellent Condition",
+    "price": 15000,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Ping G430 22\u00b0 4 Hybrid Regular Flex Alta Cb Black 70 Good",
+    "price": 16649,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 10.5* Driver Senior Graphite Very Good",
+    "price": 28499,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 MAX 9* Driver Stiff Graphite Very Good",
+    "price": 28499,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 MAX 10.5* Driver Regular Graphite Very Good",
+    "price": 28499,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New TaylorMade Stealth HD iron set 5-PW irons Speeder 60s Stiff Flex Graphite",
+    "price": 34999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club STEALTH 2 15* 3 Wood Regular Graphite Value",
+    "price": 12899,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 21* 7 Wood Regular Graphite Very Good",
+    "price": 18399,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Stealth 2 25\u00b0 5 Hybrid Senior Flex Fujikura Ventus Tr Red 5 Mint",
+    "price": 7998,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club STEALTH 2 HD 12* Driver Senior Graphite Very Good",
+    "price": 17799,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club STEALTH 2 18* 5 Wood Regular Graphite New",
+    "price": 16199,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 MAX 10.5* Driver Regular Graphite Mint",
+    "price": 32199,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "PING I10 Black Dot  4 IRON STEEL STIFF FLEX RIGHT-HANDED Replacement Iron",
+    "price": 1995,
+    "status": "Pre-Owned",
+    "shipping": 2788,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Lag Shot Lady Driver (LEFT HANDED) Golf Digest Best Swing Trainer!",
+    "price": 15900,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Stealth Iron Set 5-Pw, Aw Regular Kbs Max Mt 85 Steel 1222403 Good",
+    "price": 40499,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Callaway EDGE 10-Piece Men's Golf Club Set 10.5 Regular RIGHT or LEFT Handed \u2705\u2705\u2705",
+    "price": 69900,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 LS 9* Driver Extra Stiff Graphite Value",
+    "price": 23899,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Left Handed TaylorMade Golf Club STEALTH 2 15* 3 Wood Stiff Graphite Value",
+    "price": 6698,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New TaylorMade Men's Golf Clubs SIM 2  Max Iron Set (5-AW)  Steel Regular Flex",
+    "price": 49900,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "2024 New Callaway Edge 10-piece Women's Golf Club Set, Right Handed - Graphite",
+    "price": 60000,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 21* 7 Wood Regular Graphite Mint",
+    "price": 21199,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Ladies Tour Edge Bazooka J Max Gold 45* Pitching Wedge.. Graphite.. All Factory.",
+    "price": 3495,
+    "status": "Pre-Owned",
+    "shipping": 994,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Stealth 2 18\u00b0 5 Fairway Wood Regular Ventus Tr Red Good",
+    "price": 11249,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 18* 5 Wood Stiff Graphite Mint",
+    "price": 21199,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingCobra Golf Club AeroJet 19* 3H Hybrid Stiff Graphite New",
+    "price": 12999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade STEALTH 2 PLUS Rescue 19.5* 3H Hybrid Stiff Very Good",
+    "price": 9499,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "XXIO Golf Club Prime 11 15* 3 Wood Regular Prime SP-1100 Golf Club Right Handed",
+    "price": 15499,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 9* Driver Stiff Graphite Mint",
+    "price": 32199,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade STEALTH 2 Rescue 22* 4H Hybrid Stiff Graphite Value",
+    "price": 6798,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New TaylorMade SIM 2 Max Driver Mens RH Fujikura Ventus 5r 10.5 Degree  Regular",
+    "price": 27900,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 15* 3 Wood Stiff Graphite Value",
+    "price": 14699,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Callaway Mavrik Hybrid Golf Club - NIW",
+    "price": 8999,
+    "status": "Brand New",
+    "shipping": 1000,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "HUGE 750cc ILLEGAL DRIVER USGA NON-CONFORMING GOLF CLUB (Choose Loft-Flex-Shaft)",
+    "price": 14900,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "New Cobra Golf LTDx Hybrid 2022 Choose Club, Shaft & Flex",
+    "price": 7998,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Prosimmon Golf V7 Mens Golf Clubs Set + Bag, Right Hand",
+    "price": 15999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "New Lady Cobra Golf LTDx Hybrid Club Womens Graphite Shaft - Choose Club",
+    "price": 6498,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 Rescue 19* 3H Hybrid Stiff Graphite Value",
+    "price": 10999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Spider GTX Black #3 Putter 35'' Inches Value",
+    "price": 10099,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Spider Tour X DB Putter 35'' Inches Very Good",
+    "price": 21799,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Tour Edge HL-J Junior Golf Club Set NEW",
+    "price": 13999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 Rescue 19* 3H Hybrid Stiff Graphite Mint",
+    "price": 17599,
+    "status": "Certified - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Lag Shot Driver + Wedge Combo (RIGHT HANDED) Golf Digest Best Swing Trainer!",
+    "price": 23900,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Shop on eBay",
+    "price": 2000,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Shop on eBay",
+    "price": 2000,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 MAX 10.5* Driver Regular Graphite Mint",
+    "price": 32199,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 10.5* Driver Stiff Graphite Very Good",
+    "price": 28499,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 9* Driver Stiff Graphite Mint",
+    "price": 32199,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Lag Shot Putter (RIGHT HANDED) Golf Digest Best Swing Trainer of the Year!",
+    "price": 13900,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Adams Tight Lies Fairway Wood - Aldila Synergy Shaft Choose Loft and Flex New",
+    "price": 5699,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Wilson Staff Dynapower Carbon Driver - Choose Loft, Flex & Dexterity",
+    "price": 17999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Cobra Darkspeed X Driver - New 2024 Model",
+    "price": null,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club STEALTH 2 18* 5 Wood Regular Graphite New",
+    "price": 16199,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Wedge Open Box MG HI-TOE (2022) 52\u00b0/58\u00b0Diamana Wedge 95",
+    "price": 14997,
+    "status": "New (Other)",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Spider GTX Black #3 Putter 35'' Inches Value",
+    "price": 10099,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade STEALTH 2 Rescue 22* 4H Hybrid Regular Graphite Very Good",
+    "price": 8499,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Qi35 Driver 9* Head Only WITH HEADCOVER RH 2025 Golf",
+    "price": 39999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club STEALTH 2 15* 3 Wood Regular Graphite Value",
+    "price": 11899,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "PING I10 Black Dot  4 IRON STEEL STIFF FLEX RIGHT-HANDED Replacement Iron",
+    "price": 1995,
+    "status": "Pre-Owned",
+    "shipping": 2788,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Lag Shot Lady Driver (LEFT HANDED) Golf Digest Best Swing Trainer!",
+    "price": 15900,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Titleist Golf Club TSR2 18* 5 Wood Regular Graphite Very Good",
+    "price": 20299,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Sim 2 Ti #5 Fairway, Fujikura Ventus Black Shaft",
+    "price": 14999,
+    "status": "New (Other)",
+    "shipping": 2000,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Stealth 2 18* 5 Fairway Wood FJ Ventus Stiff flex Graphite New RH",
+    "price": 15999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 Rescue 19* 3H Hybrid Stiff Graphite Value",
+    "price": 10999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club STEALTH 2 16.5* 3HL Wood Senior Graphite Mint",
+    "price": 11999,
+    "status": "Certified - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Qi10 24\u00b0 9 Fairway Wood Extra Stiff Flex Hzrdus Black 4G 70 Excellent",
+    "price": 25199,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingCALLAWAY APEX 21 FORGED  5-PW UST RECOIL DART 65 F2 GRAPHITE SHAFT (NEAR MINT )",
+    "price": 63900,
+    "status": "Pre-Owned",
+    "shipping": 2395,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Orlimar Golf Club Escape Fairway Wood NEW",
+    "price": 5485,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Qi10 16.5\u00b0 3 Fairway Wood Regular Flex Fujikura Ventus Tr Blue 6 Good",
+    "price": 14849,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Qi10 Rescue 25* 5H Hybrid Regular Graphite Very Good",
+    "price": 13799,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Left Handed TaylorMade STEALTH 2 PLUS 9* Driver Stiff Graphite Very Good",
+    "price": 15699,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingTaylorMade Qi10 16.5 Degree 3 HL Fairway Wood Head Only RH",
+    "price": 13900,
+    "status": "Pre-Owned",
+    "shipping": 969,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Stealth 2 10.5\u00b0 Driver Regular Flex Diamana S+ 60 Mint Left Hand Lh",
+    "price": 16574,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Titleist Golf Club TSR3 24* 5H Hybrid Regular Graphite Value",
+    "price": 11999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "XXIO Golf Club Prime 11 15* 3 Wood Regular Prime SP-1100 Golf Club Right Handed",
+    "price": 15499,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 18* 5 Wood Stiff Graphite Very Good",
+    "price": 18399,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 Tour 15* 3 Wood Stiff Graphite Value",
+    "price": 18399,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Cobra Golf LIMITED Edition Aerojet LS Driver 7.5\u00b0 LONG DRIVE - Choose Shaft",
+    "price": 13999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Qi10 MAX Rescue 23* 4H Hybrid Regular Graphite Very Good",
+    "price": 13799,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade STEALTH 2 PLUS 10.5* Driver Regular Graphite Very Good",
+    "price": 23899,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Stealth 2 22\u00b0 4 Hybrid Regular Flex Fujikura Ventus Tr Red 6 Fair",
+    "price": 7198,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingTAYLORMADE TOUR PREFERRED 3 WEDGE SET 50-54-58 KBS C-TAPER S SHAFTS IOMIC GRIPS",
+    "price": 24999,
+    "status": "Pre-Owned",
+    "shipping": 1998,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New Cobra Radspeed XB 10.5 Degree Driver HZRDUS 6.0 Stiff W/Headcover #398299",
+    "price": 17599,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 10.5* Driver Senior Graphite Very Good",
+    "price": 28499,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Ladies Tour Edge Bazooka J Max Gold 45* Pitching Wedge.. Graphite.. All Factory.",
+    "price": 3495,
+    "status": "Pre-Owned",
+    "shipping": 994,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Ping G430 22\u00b0 4 Hybrid Regular Flex Alta Cb Black 70 Good",
+    "price": 16649,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Stealth 9\u00b0 Driver Stiff Flex Fujikura Ventus Red 5 Fair",
+    "price": 14874,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New Nike VR-S Forged 3-Iron Project X 6.0 PXI Stiff Flex Steel RH",
+    "price": 3999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 Rescue 19* 3H Hybrid Stiff Graphite Mint",
+    "price": 17599,
+    "status": "Certified - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New LH Taylormade PT Spider S Navy Single Bend Putter 34\" Putter + HC",
+    "price": 11999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Stealth 2 18\u00b0 5 Fairway Wood Senior Flex Fujikura Ventus Tr Red Good",
+    "price": 10799,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Qi10 15* #3 Fairway Wood Club Head Only Very Good 1280235",
+    "price": 12499,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TAYLORMADE STEALTH 2 FAIRWAY WOOD #5/18\u00b0 RH VENTUS TR RED 6 STIFF NEW w/ HC 2228",
+    "price": 16995,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TAYLORMADE SIM2 MAX DRIVER 9.0\u00b0 RH VENTUS BLUE 5 STIFF  **OPEN BOX** 1610",
+    "price": 27995,
+    "status": "New (Other)",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Left Handed TaylorMade STEALTH PLUS 9* Driver Stiff Graphite Very Good",
+    "price": 13499,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Mint Taylormade Stealth 2 15\u00b0 3 Fairway Wood Regular Fujikura Ventus Tr",
+    "price": 15299,
+    "status": "Excellent - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Spider GT Putter Choose Head Model Color Length GT LH RH New",
+    "price": 13999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Mizuno Golf ST-Z 230 Hybrid - Pick Club, Shaft & Flex",
+    "price": 15994,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Stealth Iron Set 5-Pw, Aw Regular Kbs Max Mt 85 Steel 1222403 Good",
+    "price": 40499,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New TaylorMade Stealth HD iron set 6-PW irons Speeder 50A Senior Flex Graphite",
+    "price": 36999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Taylormade Spider GT Silver SB 34\" Putter 34 inch Single Bend",
+    "price": 12990,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "NEW RH Taylormade Stealth 2 HD 23* 4h + 27* 5h Hybrid set Speeder NX 50R Regular",
+    "price": 24990,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Stealth 2 10.5\u00b0 Driver Regular Flex Fujikura Ventus Tr Red 5 Fair",
+    "price": 18899,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 LS 9* Driver Extra Stiff Graphite Value",
+    "price": 23899,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Titleist Golf Club TSR2 24* 5H Hybrid Stiff Graphite Value",
+    "price": 11999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Shop on eBay",
+    "price": 2000,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Shop on eBay",
+    "price": 2000,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingCustom Hybrid Golf Clubs +iDrive Graphite Shaft U Pick Loft 2 3 4 5 6 7 8 9 P S",
+    "price": 5995,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club STEALTH 2 HD 19* 5 Wood Senior Graphite Very Good",
+    "price": 9299,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Women TaylorMade Golf Club Qi10 MAX 12* Driver Ladies Graphite Value",
+    "price": 22099,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 18* 5 Wood Stiff Graphite Value",
+    "price": 15699,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingQ Club Gen1 Adjustable Golf Club with Case / 11 Loft Settings / Graphite Shaft",
+    "price": 18900,
+    "status": "Pre-Owned",
+    "shipping": 1495,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "XXIO Golf Club Prime 12 15* 3 Wood Regular Graphite Value",
+    "price": 20199,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Stealth 2 18\u00b0 5 Fairway Wood Senior Flex Fujikura Ventus Tr Red Good",
+    "price": 10799,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New Taylormade  Men's Golf Clubs SIM2 Max Iron Set (5-AW)  Steel Stiff Flex RH",
+    "price": 49900,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade STEALTH 2 PLUS Rescue 19.5* 3H Hybrid Stiff Very Good",
+    "price": 8499,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New TaylorMade SIM 2 Max Driver Mens RH Fujikura Ventus 5s 9  Degree Stiff",
+    "price": 27999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Stealth 2 Hd 27\u00b0 5 Hybrid Senior Flex Fujikura Speeder Nx Red 50 Mint",
+    "price": 7598,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New TaylorMade Milled Grind 3 Chrome Wedge Set 52.09*56.14*60.12* DG S200 Stiff",
+    "price": 29999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Titleist Golf Club TSR2 18* 5 Wood Regular Graphite Very Good",
+    "price": 20299,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "XXIO Prime 11 26* 6H Hybrid Regular Prime SP-1100 Golf Club Graphite Right Hand",
+    "price": 7598,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 Rescue 22* 4H Hybrid Senior Graphite Value",
+    "price": 10999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Titleist Golf Club TSR2 16.5* 4 Wood Stiff Graphite Value",
+    "price": 14699,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Qi35 Driver 9* Head Only WITH HEADCOVER RH 2025 Golf",
+    "price": 39999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "PXG GEN 5 Driver - Excellent Condition",
+    "price": 15000,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade STEALTH 2 Rescue 22* 4H Hybrid Stiff Graphite Value",
+    "price": 7798,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingNEW Mizuno JPX-925 Hot Metal Iron Set 5-GW Standard NS Pro 950 NEO Regular Flex",
+    "price": 82999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Lady Cobra Golf Air-X Hybrid Womens - Choose Club & Dexterity",
+    "price": 5999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Stealth 2 15\u00b0 3 Fairway Wood Regular Fujikura Ventus Tr Red Good",
+    "price": 12599,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Stealth 9\u00b0 Driver Stiff Flex Fujikura Ventus Red 5 Fair",
+    "price": 14874,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Tour Edge Golf Exotics E725 Hybrid Choose Club & Flex",
+    "price": null,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Cobra Golf Club AeroJet 15* 3 Wood Stiff Graphite New",
+    "price": 15999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TAYLOR MADE Stealth 2 Fairway 3 Wood RH Golf Club Fujikura Ventus TR 6-S (New)",
+    "price": 22400,
+    "status": "Brand New",
+    "shipping": 1100,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Qi10 16.5\u00b0 3 Fairway Wood Regular Flex Fujikura Ventus Tr Blue 6 Good",
+    "price": 14849,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Titleist TSR1 Driver 10* w/ Mitsubishi MMT 40 Regular Flex RH + HC **MINT**",
+    "price": 28000,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Titleist Golf Club TSR3 24* 5H Hybrid Regular Graphite Value",
+    "price": 11999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Titleist Golf Club TSR2 24* 5H Hybrid Stiff Graphite Value",
+    "price": 11999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Mint Taylormade Qi10 Max 16\u00b0 3 Fairway Wood Regular Flex Speeder Nx Tcs 50",
+    "price": 17549,
+    "status": "Excellent - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Golf Club Qi10 Rescue 19* 3H Hybrid Stiff Graphite Mint",
+    "price": 16599,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Left Hand Adams Idea Super LSP Hybrids - Built by Hurricane Golf - Choose Club",
+    "price": 3999,
+    "status": "New (Other)",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Wilson Staff Dynapower Carbon Driver - Choose Loft, Flex & Dexterity",
+    "price": 17999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "XXIO Golf Club Prime 12 10.5* Driver Regular Graphite Very Good",
+    "price": 41399,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Mint Taylormade Stealth 2 15\u00b0 3 Fairway Wood Regular Fujikura Ventus Tr",
+    "price": 15299,
+    "status": "Excellent - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New TaylorMade M4 Iron set 6-PW irons KBS Max 85 Stiff Flex Steel Shafts",
+    "price": 31999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Stealth 2 10.5\u00b0 Driver Regular Flex Diamana S+ 60 Mint Left Hand Lh",
+    "price": 16574,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Qi10 MAX Rescue 23* 4H Hybrid Regular Graphite Mint",
+    "price": 17599,
+    "status": "Certified - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "CALLAWAY ROGUE ST MAX D FAIRWAY 3 WOOD GRAPHITE REGULAR STANDARD",
+    "price": 9399,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Stealth 15\u00b0 3 Fairway Wood Regular Fujikura Ventus Red 1202302 Good",
+    "price": 11699,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Ping G430 22\u00b0 4 Hybrid Regular Flex Alta Cb Black 70 Good",
+    "price": 16649,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New Listinggolf club set",
+    "price": 5000,
+    "status": "Pre-Owned",
+    "shipping": 8590,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Cleveland Golf Halo XL Full Face Iron / Wedge Choose Club, Flex & Dexterity",
+    "price": 11999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New LH Taylormade PT Spider S Navy Single Bend Putter 34\" Putter + HC",
+    "price": 11999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Mizuno JPX 921 Hot Metal Pro Single Iron - Choose Shaft, Flex & Club",
+    "price": 7998,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingUsed Srixon ZX4 MkII Iron Set 5-AW Recoil Dart F3 65g Regular Graphite Shafts",
+    "price": 56500,
+    "status": "Pre-Owned",
+    "shipping": 2000,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Qi10 18\u00b0 5 Fairway Wood Regular Flex Fujikura Ventus Tr Blue 6 Good",
+    "price": 15299,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Mint Taylormade Stealth 2 Hd 19\u00b0 5 Fairway Wood Senior Flex Speeder Nx",
+    "price": 11249,
+    "status": "Excellent - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "PowerBilt Golf Club TPS Bump & Run Chipper NEW",
+    "price": 3485,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade M6 10.5\u00b0 Driver Head Only Right-Handed Golf Club Replacement Parts",
+    "price": 11529,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Cobra Golf KING RadSpeed XB Driver Choose Shaft, Flex, Loft & Color",
+    "price": 18499,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TAYLORMADE SIM2 MAX DRIVER 9.0\u00b0 RH VENTUS BLUE 5 STIFF  **OPEN BOX** 1610",
+    "price": 27995,
+    "status": "New (Other)",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Stealth 2 22\u00b0 4 Hybrid Regular Flex Fujikura Ventus Tr Red 6 Fair",
+    "price": 7198,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingTitleist Scotty Cameron Del Mar Two Long Slant Teryllium 35\u201d Graphite Shaft",
+    "price": 35000,
+    "status": "Pre-Owned",
+    "shipping": 2500,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingTaylorMade STEALTH 2 PLUS 15* 3-Wood VENTUS BLACK 6X TR VELOCORE",
+    "price": 38000,
+    "status": "Pre-Owned",
+    "shipping": 1500,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingLeft Handed TaylorMade M4 Driver 10.5 Loft",
+    "price": 16999,
+    "status": "Pre-Owned",
+    "shipping": 994,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Stealth 2 10.5\u00b0 Driver Regular Diamana S+ 60 Good Left Hand Lh",
+    "price": 15299,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "XXIO Golf Club Prime 11 18* 5 Wood Regular Prime SP-1100 Golf Club Right Handed",
+    "price": 15499,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade STEALTH 2 Rescue 22* 4H Hybrid Regular Graphite Very Good",
+    "price": 8499,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Shop on eBay",
+    "price": 2000,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Shop on eBay",
+    "price": 2000,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Titleist Golf Club TSR2 16.5* 4 Wood Stiff Graphite Value",
+    "price": 14699,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Cobra Golf Club T-Rail 2 20* 4H Hybrid Senior Graphite New",
+    "price": 6498,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "NEW TaylorMade Qi10 Fairway Wood 2024 Choose Club & Flex",
+    "price": 22699,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Titleist Golf Club TSR2 24* 5H Hybrid Stiff Graphite Value",
+    "price": 11999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Stealth 2 Hd 12\u00b0 Driver Ladies Flex Aldila Ascent Ladies Mint",
+    "price": 16999,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Qi35 Driver 10.5* Head Only WITH HEADCOVER RH 2025 Golf",
+    "price": 42999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Build a Custom Stealth HD Iron or Wedge",
+    "price": 6998,
+    "status": "New (Other)",
+    "shipping": 2000,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Left Hand Adams Idea Super LSP Hybrids - Built by Hurricane Golf - Choose Club",
+    "price": 3999,
+    "status": "New (Other)",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Titleist Scotty Cameron Phantom X 8 Putter Value",
+    "price": 14699,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Taylormade Stealth HD iron set 5-PW irons Speeder NX 60S Stiff Flex Graphite",
+    "price": 36999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Hi Toe 3 LB 60* Lob Wedge Steel Very Good",
+    "price": 7598,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "NEW ILLEGAL DISTANCE DRIVING IRON LONG DRIVER CUSTOM GOLF CLUB 18* or 21*",
+    "price": 5995,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Mint Taylormade Qi10 Max 16\u00b0 3 Fairway Wood Regular Flex Speeder Nx Tcs 50",
+    "price": 17549,
+    "status": "Excellent - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Cobra Golf Club King TEC 2021 24* 5H Hybrid Senior Graphite New",
+    "price": 10499,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Qi10 MAX Rescue 23* 4H Hybrid Regular Graphite Mint",
+    "price": 17599,
+    "status": "Certified - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "CALLAWAY ROGUE ST MAX D FAIRWAY 3 WOOD GRAPHITE REGULAR STANDARD",
+    "price": 9399,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade STEALTH SW wedge RH KBS MAX MT85 Steel Fex Regular New",
+    "price": 14800,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Qi10 Tour Rescue 19.5* 3H Hybrid Stiff Graphite Value",
+    "price": 10999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Cobra Golf LTDx LS Driver 2022 Choose Shaft, Flex, Loft & Color",
+    "price": 17999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Left Handed TaylorMade STEALTH 2 PLUS 15* 3 Wood Regular Graphite Mint",
+    "price": 10699,
+    "status": "Certified - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Stealth 2 25\u00b0 5 Hybrid Senior Flex Fujikura Ventus Tr Red Ih Good",
+    "price": 7198,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Used Right Handed TaylorMade Spider EX Navy/White 35\" Putter Steel Golf Club",
+    "price": 12999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Qi35 LS Driver 9* Head Only WITH HEADCOVER",
+    "price": 45999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingCobra F-MAX Airspeed Straight Neck Driver 10.5* Regular 40g Graphite Shaft RH",
+    "price": 13500,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingVOKEY 2009 SPIN MILLED BLACK NITRIDE 2 WEDGE SET 54 & 58 SPINE ALIGNED KBS CT95",
+    "price": 23999,
+    "status": "Pre-Owned",
+    "shipping": 1798,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New Cobra Golf LTDx Hybrid 2022 Choose Club, Shaft & Flex",
+    "price": 7998,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade STEALTH HD Single iron sand lob wedge Choose  RH / LH New",
+    "price": 8499,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "[NEW] Callaway 2021 Epic Max Driver /RH/ (Choose Loft & Shaft & Flex)",
+    "price": 20999,
+    "status": "Brand New",
+    "shipping": 1500,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "XXIO Golf Club Prime 11 18* 5 Wood Regular Prime SP-1100 Golf Club Right Handed",
+    "price": 15499,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Tour Edge Golf Exotics E725 Hybrid Choose Club & Flex",
+    "price": null,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Qi10 Max 16\u00b0 3 Fairway Wood Regular Flex Speeder Nx Tcs 50 Good",
+    "price": 14849,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Srixon Zx MkII 20 3 Utility Iron Stiff Flex Recoil Dart 90 Graphite Good",
+    "price": 13004,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Tour Edge Golf Exotics E725 Driver 2025 Choose Shaft, Loft & Flex",
+    "price": null,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingVOKEY SM7 BLACK NITRIDE 3 WEDGE SET 50-54-58 SPINE ALIGNED NEW BLACK KBS TOUR",
+    "price": 39499,
+    "status": "Pre-Owned",
+    "shipping": 1998,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Odyssey Stroke Lab Tuttle Center Shaft Putter New",
+    "price": 14997,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingCallaway Men's Elyte Triple Diam RH Driver Pick-Loft-Shaft-Flex Headcover Incl.",
+    "price": 59999,
+    "status": "Brand New",
+    "shipping": 1199,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "New Taylormade Stealth Hybrid Rescue Choose Loft 3h 4h 5h 6H and flex",
+    "price": 13999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "PowerBilt Golf TPS X-Type M-900 Putter,  Brand New",
+    "price": 3485,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "CALLAWAY PARADYM AI SMOKE MAX FAIRWAY 3HL WOOD GRAPHITE REGULAR STANDARD",
+    "price": 17369,
+    "status": "Certified - Refurbished",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Women XXIO Golf Club 12 18* 4 Wood Ladies Graphite Value",
+    "price": 13799,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Tour Edge HL-J Junior Golf Club Set NEW",
+    "price": 13999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingCallaway XR 16 3 Wood Stiff Flex Project X 6.0 Right Handed +1\u201d Long",
+    "price": 9499,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "New TaylorMade Milled Grind 3 Chrome Wedge Set 52.09*56.14*60.12* DG S200 Stiff",
+    "price": 29999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Taylormade Stealth HD iron set 5-AW irons KBS Max Regular flex Steel shafts",
+    "price": 45000,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Stealth 2 10.5\u00b0 Driver Regular Fujikura Ventus Tr Red 5 Good",
+    "price": 20699,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New Taylormade MG3 Chrome 52.09* Gap Wedge AW Tour Issue s200 Stiff",
+    "price": 9999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Ram Golf Laser Hybrid Irons Set 4-SW (8 Clubs) - Mens Right Hand",
+    "price": 15999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Qi10 Rescue 19* 3H Hybrid Stiff Graphite Very Good",
+    "price": 14799,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Cobra Aerojet ONE Length 19* 3 Hybrid 3h KBS PGi 85s Stiff flex OL",
+    "price": 11995,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade SpeedBlade Single 9-Iron ONLY, Regular VELOX T 65g Graphite, Men's RH",
+    "price": 3999,
+    "status": "Pre-Owned",
+    "shipping": 916,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Stealth 2 19\u00b0 3 Hybrid Stiff Fujikura Ventus Tr Red Ih Good",
+    "price": 10799,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Stealth 2 12\u00b0 Driver Senior Flex Fujikura Ventus Tr Red 5 Fair",
+    "price": 16149,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingPxg Gunboat Mini Demo 35.5\" Putter Fair RH New Super Stroke Grip",
+    "price": 15499,
+    "status": "Pre-Owned",
+    "shipping": 1224,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Stealth 2 Hd 27\u00b0 5 Hybrid Senior Flex Fujikura Speeder Nx Red 50 Mint",
+    "price": 7598,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade STEALTH 2 16.5* 3HL Wood Senior Graphite Very Good",
+    "price": 10299,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New RH Cobra SB Snake Bite Black 52* Gap Wedge AW 52.12c Stiff flex SnakeBite",
+    "price": 6998,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Qi10 Max 19* #5 Fairway Wood Head Only .335 GOOD 1269561",
+    "price": 11899,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Wilson Profile SGi Package set woods / hybrid / irons /putter/Cart Lady RH",
+    "price": 29500,
+    "status": "Brand New",
+    "shipping": 3000,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingCustom Hybrid Golf Clubs +iDrive Graphite Shaft U Pick Loft 2 3 4 5 6 7 8 9 P S",
+    "price": 5995,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "New Cobra Golf Air-X 2 Individual Iron / Wedge 2024 Choose Club & Flex",
+    "price": 9999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Shop on eBay",
+    "price": 2000,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Shop on eBay",
+    "price": 2000,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "XXIO Golf Club Prime 12 15* 3 Wood Regular Graphite Value",
+    "price": 20199,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Women XXIO Golf Club 12 18* 4 Wood Ladies Graphite Value",
+    "price": 13799,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TAYLOR MADE Stealth 2 Fairway 3 Wood RH Golf Club Fujikura Ventus TR 6-S (New)",
+    "price": 22400,
+    "status": "Brand New",
+    "shipping": 1100,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Stealth Plus 15\u00b0 3 Fairway Wood Regular Flex Hzrdus Rdx Red Good ^",
+    "price": 15299,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "2024 New Callaway Edge 10-piece Women's Golf Club Set, Right Handed - Graphite",
+    "price": 60000,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Left Handed Cobra Golf Club DARKSPEED X 15* 3 Wood Regular Graphite Value",
+    "price": 11099,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Taylormade Stealth HD iron set 5-AW irons KBS Max Regular flex Steel shafts",
+    "price": 45000,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Stealth 2 Hd 12\u00b0 Driver Senior Flex Fujikura Speeder Nx Tcs Good",
+    "price": 16574,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Stealth 2 Core 10.5* Driver, Project X HZRDUS Smoke RDX Red 5.5 60g",
+    "price": 24999,
+    "status": "New (Other)",
+    "shipping": 2000,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "XXIO Prime 12 AW 48* Graphite SP-1200 Shaft Regular Flex Right Hand - VERY GOOD",
+    "price": 9995,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Build a Custom TaylorMade Sim Max Iron or Wedge",
+    "price": 7998,
+    "status": "New (Other)",
+    "shipping": 2000,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingTitleist Scotty Cameron Del Mar Two Long Slant Teryllium 35\u201d Graphite Shaft",
+    "price": 35000,
+    "status": "Pre-Owned",
+    "shipping": 2500,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "CALLAWAY GOLF EPIC SPEED DRIVER 10.5\u00b0 GRAPHITE 5.5 STANDARD",
+    "price": 13949,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Qi10 Max 16\u00b0 3 Fairway Wood Stiff Flex Hzrdus Gen 4 Black 70G Good",
+    "price": 19349,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Qi10 Max 16\u00b0 3 Fairway Wood Senior Flex Speeder Nx Tcs 50 Fair",
+    "price": 12599,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "CALLAWAY ROGUE ST MAX D FAIRWAY 3 WOOD GRAPHITE REGULAR STANDARD",
+    "price": 9399,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Orlimar Golf Big Buddha Hybrid - Choose Club & Flex",
+    "price": 3499,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Qi10 Rescue 19* 3H Hybrid Stiff Graphite Very Good",
+    "price": 14799,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Titleist Golf Club TSR2 18* 5 Wood Regular Graphite Very Good",
+    "price": 20299,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Titleist TSR2 9* Driver Head Only 9.0 TSR 2 + Headcover Mint",
+    "price": 26999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "NEW TaylorMade SIM Max Fairway, Fujikura Blue Ventus Shaft",
+    "price": 13999,
+    "status": "Brand New",
+    "shipping": 2000,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "New RH Callaway Epic Flash 15* 3 Wood Project X EvenFlow 65g 6.0 Stiff Flex",
+    "price": 14999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingTaylorMade RAC OS Steel Iron Set 3-9 PW",
+    "price": 22000,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingTaylorMade 2023 Stealth HD Iron Set - 5-PW, AW - Stiff Flex Graphite - NEW",
+    "price": 54999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Senior Men's Rife 812s Offset 13 Wood Golf Club, Senior \"A\" Flex Graphite Shaft",
+    "price": 12994,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "NEW TaylorMade SIM2 Max Hybrid (Options Available)",
+    "price": 17999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingTOUR EDGE MODA SILK DARK BLUE/GOLD TRIM GOLF CLUB SET/BAG 11 CLUBS ALL NEW",
+    "price": 52500,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Build a Custom TaylorMade 2021 P790 Iron or Wedge",
+    "price": 11999,
+    "status": "Brand New",
+    "shipping": 2000,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Mizuno Pro T24 Wedge - New 2024 - Choose Finish, Loft, & Bounce",
+    "price": 12999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Callaway Mavrik Fairway Wood New 2022 - Choose your Loft and Flex",
+    "price": null,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Qi10 Max 19\u00b0 5 Fairway Wood Stiff Hzrdus Gen 4 Black 6.0 70G Good",
+    "price": 18899,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Sixtynine Golf Men's 69 Degree Lightweight Sand, Lob, Flop Wedge",
+    "price": 9900,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingTaylorMade Nubbins B3s Golf Club Putter / 35\" / Right Handed / All Original!",
+    "price": 1873,
+    "status": "Pre-Owned",
+    "shipping": 1379,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Cleveland Golf Zipcore XL Iron / Wedge Choose Club, Flex & Dexterity",
+    "price": 11999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Qi35 LS Driver 9* Head Only WITH HEADCOVER",
+    "price": 45999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Mint Cobra Aerojet Max 21.5\u00b0 5 Fairway Wood Ladies Flex Helium Nanocore 1230407",
+    "price": 7598,
+    "status": "Excellent - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "PowerBilt Golf TPS X-Type M-900 Putter,  Brand New",
+    "price": 3485,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Wilson Profile SGi Package set woods / hybrid / irons /putter/Cart Lady RH",
+    "price": 29500,
+    "status": "Brand New",
+    "shipping": 3000,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Stealth 15\u00b0 3 Fairway Wood Regular Ventus 1226939 Fair Left Hand Lh",
+    "price": 7198,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Bettinardi HLX 5.0 Chrome Wedge - Choose Club",
+    "price": 11999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New Fujikura Ventus Red FW 6-S 62g STIFF 44.5\" Fairway Wood Shaft .335 Uncut",
+    "price": 5113,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New Listing2025 Taylormade QI35 LS Designer Series 10.5* X-Stiff w/ HC",
+    "price": 62900,
+    "status": "Brand New",
+    "shipping": 1895,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Qi10 MAX Rescue 23* 4H Hybrid Regular Graphite Value",
+    "price": 10999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Stealth 2 10.5\u00b0 Driver Regular Diamana S+ 60 Good Left Hand Lh",
+    "price": 15299,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Qi Irons Approach-Sand-Lob Wedge - Choose Loft & Shaft+Flex - NEW",
+    "price": 15713,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New Callaway MAVRIK MAX Fairway Wood - Choose Loft LH RH Shaft Model Flex",
+    "price": 13999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Divnick Whole-in-One Adjustable Loft Telescopic Golf Club + Belt Bag | MaxStrata",
+    "price": 24997,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "TaylorMade Hi Toe 3 LB 60* Lob Wedge Steel Very Good",
+    "price": 7598,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Mint! TaylorMade Milled Grind 3 MG3 Black (SB 11*) 58* Wedge #367152",
+    "price": 5599,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Qi10 19\u00b0 3 Hybrid Regular Flex Tensei Av Blue 70 Good",
+    "price": 15749,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "NEW Cobra 2023 T-Rail Iron-Hybrid Wedge Choose Club & Shaft",
+    "price": null,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingTaylorMade R15 460 Driver 10.5 Deg Graphite Reg Flex Left Handed Adjustable 46\u201d",
+    "price": 6700,
+    "status": "Pre-Owned",
+    "shipping": 2999,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingVOKEY 2009 SPIN MILLED BLACK NITRIDE 2 WEDGE SET 56  & 60 SPINE ALIGNED KBS CT95",
+    "price": 23999,
+    "status": "Pre-Owned",
+    "shipping": 1798,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Blank Golf Wedge",
+    "price": 3995,
+    "status": "Brand New",
+    "shipping": 950,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Titleist Golf Club TSR2 18* 3H Hybrid Regular Graphite -0.50 inch Value",
+    "price": 13899,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Blacked out Stealth Blade Putter, milled face, black shaft, 1 of 50, USA,Newport",
+    "price": 13500,
+    "status": "Brand New",
+    "shipping": 1257,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingPing Zing Karsten Blonde Gold 1W 3W 5W 7W Golf Club Wood Bundle Lot",
+    "price": 12400,
+    "status": "Pre-Owned",
+    "shipping": 1063,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Taylormade Sim2 Max Hybrid New 2023 - Choose Your Hand, Loft, and Flex",
+    "price": 17999,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Callaway Elyte Fairway Wood - Right Hand - 3 Wood - Stiff Flex - Project X Denal",
+    "price": 23899,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Men'S Harmonized Golf Chipper (Right Hand, Steel, 35-Inch)",
+    "price": 4699,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  }
+]
