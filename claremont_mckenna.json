@@ -1,21 +1,5 @@
 [
   {
-    "name": "Shop on eBay",
-    "price": 2000,
-    "status": "Brand New",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Shop on eBay",
-    "price": 2000,
-    "status": "Brand New",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
     "name": "Claremont McKenna College Shirt Adult Mens Medium Gray League",
     "price": 793,
     "status": "Pre-Owned",
@@ -24,10 +8,10 @@
     "items_sold": null
   },
   {
-    "name": "Under Armour T-Shirt Mens Medium Maroon Claremont McKenna College Loose Athletic",
-    "price": 1169,
+    "name": "Claremont McKenna Athenas Sweatshirt, X-L",
+    "price": 1200,
     "status": "Pre-Owned",
-    "shipping": 599,
+    "shipping": 975,
     "free_returns": false,
     "items_sold": null
   },
@@ -40,10 +24,10 @@
     "items_sold": null
   },
   {
-    "name": "Claremont McKenna College Pullover Fleece Sweatshirt Sz Large",
-    "price": 4500,
-    "status": "Brand New",
-    "shipping": 1000,
+    "name": "Under Armour T-Shirt Mens Medium Maroon Claremont McKenna College Loose Athletic",
+    "price": 1169,
+    "status": "Pre-Owned",
+    "shipping": 599,
     "free_returns": false,
     "items_sold": null
   },
@@ -53,14 +37,6 @@
     "status": null,
     "shipping": null,
     "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Claremont McKenna College Burgundy Ceramic Coffee Mug",
-    "price": 2197,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": false,
     "items_sold": null
   },
   {
@@ -76,6 +52,14 @@
     "price": 1859,
     "status": "Pre-Owned",
     "shipping": 750,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Claremont McKenna College Pullover Fleece Sweatshirt Sz Large",
+    "price": 4500,
+    "status": "Brand New",
+    "shipping": 1000,
     "free_returns": false,
     "items_sold": null
   },
@@ -112,18 +96,18 @@
     "items_sold": null
   },
   {
-    "name": "The Diary of Samuel Golfard and - Paperback, by Lower Claremont McKenna - Good",
-    "price": 3183,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
     "name": "Heroes Reborn DOOM #1 MARVEL 2000 ICONIC SPIDER-MAN \"got milk?\" AD BACK CVR NM+",
     "price": 1998,
     "status": "Brand New",
     "shipping": 595,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "The Diary of Samuel Golfard and - Paperback, by Lower Claremont McKenna - Good",
+    "price": 3181,
+    "status": "Pre-Owned",
+    "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
@@ -136,26 +120,18 @@
     "items_sold": null
   },
   {
-    "name": "Commerce and Civilization Claremont McKenna College The First Fift.Years 1946-96",
-    "price": 2100,
+    "name": "Heroes Reborn Doom #1 FN+ 6.5 2000 Stock Image",
+    "price": 780,
     "status": null,
-    "shipping": null,
-    "free_returns": false,
+    "shipping": 690,
+    "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "7\" x 5\" Photo Frame - Claremont McKenna College - Lot of 12",
-    "price": 2249,
+    "name": "6x4 Photo Frame - Claremont McKenna College \uff082A\uff09",
+    "price": 688,
     "status": "Brand New",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Claremont McKenna Athenas Sweatshirt, X-L",
-    "price": 1200,
-    "status": "Pre-Owned",
-    "shipping": 975,
+    "shipping": 588,
     "free_returns": false,
     "items_sold": null
   },
@@ -163,14 +139,6 @@
     "name": "ORIGINAL 1946 to 1996 CLAREMONT McKENNA COLLEGE HISTORY YEARBOOK/CLAREMONT CALIF",
     "price": 3995,
     "status": null,
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Divided We Stand, Busch, Andrew E.,Busch, Andrew E.,Pitney Jr. Claremont McKenna",
-    "price": 1898,
-    "status": "Pre-Owned",
     "shipping": null,
     "free_returns": false,
     "items_sold": null
@@ -184,42 +152,18 @@
     "items_sold": null
   },
   {
-    "name": "Commerce and Civilization: Claremont McKenna College, the First Fifty Years,...",
-    "price": 2111,
+    "name": "Divided We Stand, Busch, Andrew E.,Busch, Andrew E.,Pitney Jr. Claremont McKenna",
+    "price": 1898,
     "status": "Pre-Owned",
     "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Ayer 1969 Yearbook Claremont Men's College (Los Angeles) Claremont McKenna Coll.",
-    "price": 3795,
-    "status": "Pre-Owned",
-    "shipping": 823,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Vintage Claremont McKenna College Shirt Men's Size XL Grey Tee",
-    "price": 1518,
-    "status": "Pre-Owned",
-    "shipping": 1705,
     "free_returns": false,
     "items_sold": null
   },
   {
-    "name": "6x4 Photo Frame - Claremont McKenna College \uff082A\uff09",
-    "price": 688,
+    "name": "7\" x 5\" Photo Frame - Claremont McKenna College - Lot of 12",
+    "price": 2249,
     "status": "Brand New",
-    "shipping": 588,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "US College Bookmark - Hand Made - Choose College (A - M) - 5 ml thick - 8\" x 3\"",
-    "price": 1062,
-    "status": "Brand New",
-    "shipping": 419,
+    "shipping": null,
     "free_returns": false,
     "items_sold": null
   },
@@ -232,6 +176,46 @@
     "items_sold": null
   },
   {
+    "name": "Commerce and Civilization Claremont McKenna College The First Fift.Years 1946-96",
+    "price": 2100,
+    "status": null,
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Commerce and Civilization: Claremont McKenna College, the First Fifty Years,...",
+    "price": 2111,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Vintage Claremont McKenna College Shirt Men's Size XL Grey Tee",
+    "price": 1518,
+    "status": "Pre-Owned",
+    "shipping": 1705,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Vintage Yearbook: 1988 Ayer - Claremont McKenna College / HAS",
+    "price": 4824,
+    "status": null,
+    "shipping": 688,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Ayer 1969 Yearbook Claremont Men's College (Los Angeles) Claremont McKenna Coll.",
+    "price": 3795,
+    "status": "Pre-Owned",
+    "shipping": 823,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
     "name": "Ayer 1968 Yearbook Claremont Men's College Claremont McKenna College California",
     "price": 2895,
     "status": "Pre-Owned",
@@ -240,26 +224,10 @@
     "items_sold": null
   },
   {
-    "name": "Heroes Reborn Doom #1 FN+ 6.5 2000 Stock Image",
-    "price": 780,
+    "name": "X-Treme X-Men #39 (2004) Marvel 9.2 NM- Storm 1st Print Comic Book",
+    "price": 359,
     "status": null,
-    "shipping": 690,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "HEROES REBORN DOOMSDAY 1 DOCTOR DOOM (2000, MARVEL COMICS)",
-    "price": 1798,
-    "status": "New (Other)",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "HEROES REBORN DOOM 1 DOCTOR DOOM (1999, MARVEL COMICS)",
-    "price": 1499,
-    "status": "New (Other)",
-    "shipping": null,
+    "shipping": 525,
     "free_returns": true,
     "items_sold": null
   },
@@ -272,42 +240,26 @@
     "items_sold": null
   },
   {
-    "name": "Vintage Yearbook: 1988 Ayer - Claremont McKenna College / HAS",
-    "price": 4824,
-    "status": null,
-    "shipping": 688,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Heroes Reborn: Doomsday #1 2000 CGC 9.8 Marvel Comics Low Census White Pages",
-    "price": 1549,
+    "name": "Black Sun: X-Men #2 VF; Marvel | Storm - we combine shipping",
+    "price": 249,
     "status": "New (Other)",
-    "shipping": 1258,
+    "shipping": 599,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "Claremont McKenna College Diploma Frame campus photo college framing certificate",
-    "price": 12499,
+    "name": "The Future Of America's Political Parties",
+    "price": 6522,
     "status": "Brand New",
-    "shipping": 1698,
+    "shipping": null,
     "free_returns": false,
     "items_sold": null
   },
   {
-    "name": "Heroes Reborn: Doom #1  - NM (2000)",
-    "price": 399,
-    "status": null,
-    "shipping": 499,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "AllGiftFrames Claremont McKenna College Custom Diploma Frame Embossed Claremont",
-    "price": 15499,
+    "name": "US College Bookmark - Hand Made - Choose College (A - M) - 5 ml thick - 8\" x 3\"",
+    "price": 1062,
     "status": "Brand New",
-    "shipping": 2178,
+    "shipping": 419,
     "free_returns": false,
     "items_sold": null
   },
@@ -320,23 +272,23 @@
     "items_sold": null
   },
   {
-    "name": "Imagination And Creative Thinking by Kind, Amy (claremont Mckenna College, Ca...",
-    "price": 2611,
-    "status": "New (Other)",
-    "shipping": null,
+    "name": "AllGiftFrames Claremont McKenna College Custom Diploma Frame Embossed Claremont",
+    "price": 15499,
+    "status": "Brand New",
+    "shipping": 2178,
     "free_returns": false,
     "items_sold": null
   },
   {
-    "name": "Black Sun: X-Men #2 VF; Marvel | Storm - we combine shipping",
-    "price": 249,
-    "status": "New (Other)",
-    "shipping": 599,
-    "free_returns": true,
+    "name": "Claremont McKenna College Diploma Frame campus photo college framing certificate",
+    "price": 12499,
+    "status": "Brand New",
+    "shipping": 1698,
+    "free_returns": false,
     "items_sold": null
   },
   {
-    "name": "Diploma Frame Big Claremont McKenna College Campus Photo Graduation Gift Case Em",
+    "name": "Diploma Frame Claremont McKenna College Campus Photo Graduation Graduation Gift",
     "price": 15999,
     "status": "Brand New",
     "shipping": 2178,
@@ -352,7 +304,23 @@
     "items_sold": null
   },
   {
-    "name": "Diploma Frame Claremont McKenna College Campus Photo Graduation Graduation Gift",
+    "name": "HEROES REBORN DOOMSDAY 1 DOCTOR DOOM (2000, MARVEL COMICS)",
+    "price": 1798,
+    "status": "New (Other)",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "HEROES REBORN: DOOM #1 ONE-SHOT VF/NM MARVEL Comics COMIC BOOK MCU",
+    "price": 1000,
+    "status": "Pre-Owned",
+    "shipping": 607,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Diploma Frame Big Claremont McKenna College Campus Photo Graduation Gift Case Em",
     "price": 15999,
     "status": "Brand New",
     "shipping": 2178,
@@ -360,10 +328,26 @@
     "items_sold": null
   },
   {
-    "name": "X-Treme X-Men [COMPLETE] Vol 1, 2 + Variants + One-Shots + Signed [Lot of 77]",
-    "price": 14994,
+    "name": "2001 Jogo CFL #71 Jon Nielsen Rookie RC - Toronto Argonauts - Claremont McKenna",
+    "price": 211,
     "status": "Pre-Owned",
-    "shipping": 1274,
+    "shipping": 844,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Heroes Reborn: Doomsday #1 2000 CGC 9.8 Marvel Comics Low Census White Pages",
+    "price": 1549,
+    "status": "New (Other)",
+    "shipping": 1258,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "1966 Claremont-Mudd College Stags vs Caltech Beavers Football Program Cal Tech",
+    "price": 2499,
+    "status": null,
+    "shipping": 699,
     "free_returns": false,
     "items_sold": null
   },
@@ -384,14 +368,6 @@
     "items_sold": null
   },
   {
-    "name": "1966 Claremont-Mudd College Stags vs Caltech Beavers Football Program Cal Tech",
-    "price": 2499,
-    "status": null,
-    "shipping": 699,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
     "name": "XTREME X-MEN Vol. 7: Storm- The Arena- Claremont, Kordy, Hanna 2004 PB",
     "price": 1199,
     "status": "Brand New",
@@ -400,113 +376,33 @@
     "items_sold": null
   },
   {
-    "name": "Heroes Reborn: Doomsday #1 (2000) CGC 9.8 WP - Low Pop - 1st Appearance Lancer",
-    "price": 22499,
-    "status": null,
-    "shipping": 1500,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "HEROES REBORN: DOOM #1  NM-  ONE-SHOT  MARVEL COMICS 2000",
-    "price": 424,
-    "status": "New (Other)",
-    "shipping": 549,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Heroes Reborn: Doom #1 CGC 9.8 Marvel Comics 2000 Doctor Doom 1st Lancer",
-    "price": 8499,
-    "status": "Brand New",
-    "shipping": 1199,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Heroes Reborn: DOOM #1 (Marvel 2000) Claremont / McKone / McKenna DOCTOR DOOM!",
-    "price": 1998,
-    "status": null,
-    "shipping": 630,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "HEROES REBORN: DOOM #1 ONE-SHOT HIGH GRADE MARVEL COMIC BOOK",
-    "price": 499,
-    "status": "New (Other)",
-    "shipping": 600,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Heroes Reborn Doom #1 True Believers Ultimates 4 Doctor Doom Set of 4 Marvel",
-    "price": 2200,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Heroes Reborn Doomsday 1 NM Doctor Doom 1999 Marvel Comics MCU",
-    "price": 900,
-    "status": "New (Other)",
-    "shipping": 690,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Heroes Reborn: Doomsday #1  ~ MARVEL 2000 ~ Claremont & McKone  NM",
-    "price": 1698,
-    "status": null,
-    "shipping": 499,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Marvel Comics HEROES REBORN 6 BOOK LOT DOOMSDAY YOUNG ALLIES REBEL # 1 VFNM 2000",
-    "price": 1295,
-    "status": "Pre-Owned",
-    "shipping": 595,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "X-Treme X-Men 39 (1st Series) Salvador Larroca Cover",
-    "price": 299,
+    "name": "Heroes Reborn: Doom #1  - NM (2000)",
+    "price": 399,
     "status": null,
     "shipping": 499,
     "free_returns": false,
     "items_sold": null
   },
   {
-    "name": "Heroes Reborn: Doomsday #1 (1999) NM Claremont McKone Marvel Comics Avengers",
-    "price": 2999,
+    "name": "Imagination And Creative Thinking by Kind, Amy (claremont Mckenna College, Ca...",
+    "price": 2611,
+    "status": "New (Other)",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "X-Treme X-Men [COMPLETE] Vol 1, 2 + Variants + One-Shots + Signed [Lot of 77]",
+    "price": 14994,
     "status": "Pre-Owned",
-    "shipping": null,
+    "shipping": 1274,
     "free_returns": false,
     "items_sold": null
   },
   {
-    "name": "The Future Of America's Political Parties",
-    "price": 6522,
-    "status": "Brand New",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Shop on eBay",
-    "price": 2000,
-    "status": "Brand New",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Shop on eBay",
-    "price": 2000,
-    "status": "Brand New",
+    "name": "XTREME X-MEN Vol. 7: Storm- The Arena- Claremont, Kordy, Hanna 2004 PB",
+    "price": 1299,
+    "status": "New (Other)",
     "shipping": null,
     "free_returns": false,
     "items_sold": null
@@ -520,6 +416,70 @@
     "items_sold": null
   },
   {
+    "name": "Heroes Reborn Doomsday 1 NM Doctor Doom 1999 Marvel Comics MCU",
+    "price": 900,
+    "status": "New (Other)",
+    "shipping": 690,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "XTREME X-MEN Vol. 7: Storm- The Arena- Claremont, Kordy, Hanna *'04 1st PB Print",
+    "price": 799,
+    "status": "Brand New",
+    "shipping": 465,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "X-Treme X-Men 39 (1st Series) Salvador Larroca Cover",
+    "price": 299,
+    "status": null,
+    "shipping": 499,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Heroes Reborn Doom #1 True Believers Ultimates 4 Doctor Doom Set of 4 Marvel",
+    "price": 2200,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Heroes Reborn: Doomsday #1  ~ MARVEL 2000 ~ Claremont & McKone  NM",
+    "price": 1698,
+    "status": null,
+    "shipping": 499,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Heroes Reborn: Doom #1 (2000)VF~NM Sealed",
+    "price": 299,
+    "status": null,
+    "shipping": 610,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Heroes Reborn Doom # 1 NM 1st Print Marvel Comic Book 7 J286",
+    "price": 1399,
+    "status": "Pre-Owned",
+    "shipping": 698,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "HEROES REBORN DOOMSDAY #1 /MARVEL/ 2000 /VF- / 1ST APP OF LANCER",
+    "price": 892,
+    "status": "New (Other)",
+    "shipping": 852,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
     "name": "Politics and Tradition Between Rome, Ravenna and Constantinople: A Study of Cass",
     "price": 22392,
     "status": "Brand New",
@@ -528,26 +488,34 @@
     "items_sold": null
   },
   {
-    "name": "HEROES REBORN: DOOM #1 ONE-SHOT VF/NM MARVEL Comics COMIC BOOK MCU",
-    "price": 1000,
+    "name": "Heroes Reborn Doomsday #1 Doctor Doom 1999 Marvel Comics MCU Claremont Raw",
+    "price": 1250,
     "status": "Pre-Owned",
-    "shipping": 607,
+    "shipping": 563,
     "free_returns": false,
     "items_sold": null
   },
   {
-    "name": "Imagination And Creative Thinking by Kind, Amy (claremont Mckenna College, Ca...",
-    "price": 2612,
-    "status": "Brand New",
+    "name": "New Political Geography of California, Paperback by Douzet, Frederick (EDT); ...",
+    "price": 1691,
+    "status": "Pre-Owned",
     "shipping": null,
     "free_returns": false,
     "items_sold": null
   },
   {
-    "name": "Heroes Reborn: Doom #1 ~ MARVEL 2000 ~ Chris Claremont VF/NM",
-    "price": 999,
-    "status": null,
-    "shipping": 499,
+    "name": "Imagination And Creative Thinking by Kind, Amy (claremont Mckenna College, Ca...",
+    "price": 2611,
+    "status": "New (Other)",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "HEROES REBORN DOOM 1 DOCTOR DOOM (1999, MARVEL COMICS)",
+    "price": 1499,
+    "status": "New (Other)",
+    "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
@@ -565,14 +533,6 @@
     "status": "New (Other)",
     "shipping": 549,
     "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Heroes Reborn: Doom #1 (2000)VF~NM Sealed",
-    "price": 299,
-    "status": null,
-    "shipping": 610,
-    "free_returns": false,
     "items_sold": null
   },
   {
@@ -592,10 +552,58 @@
     "items_sold": null
   },
   {
+    "name": "Heroes Reborn: Doom #1 (2000)VF~NM Sealed",
+    "price": 299,
+    "status": null,
+    "shipping": 610,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "HEROES REBORN: DOOM #1 ONE-SHOT HIGH GRADE MARVEL COMIC BOOK",
+    "price": 999,
+    "status": "New (Other)",
+    "shipping": 600,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
     "name": "Heroes Reborn: Doom #1 CGC 9.8 Marvel Comics 2000 Doctor Doom 1st Lancer",
     "price": 8499,
     "status": "Brand New",
     "shipping": 1199,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Calculus for Business, Economics, and the Social and Life Sciences, Brief Versio",
+    "price": 28102,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Embodiment of Leadership, Paperback by Melina, Lois Ruskai (EDT); Burgess, Gl...",
+    "price": 3304,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Heroes Reborn: Doom #1 (2000 Marvel Comics)",
+    "price": 599,
+    "status": "Pre-Owned",
+    "shipping": 599,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "The Uncanny X-Men #455 (Marvel Comics April 2005)",
+    "price": 699,
+    "status": "Pre-Owned",
+    "shipping": 462,
     "free_returns": false,
     "items_sold": null
   },
@@ -605,38 +613,6 @@
     "status": "Pre-Owned",
     "shipping": null,
     "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Linear Algebra : An Introduction to Abstract Mathematics, Paperback by Valenz...",
-    "price": 7906,
-    "status": "New (Other)",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Practice of Leadership : Developing the Next Generation of Leaders, Hardcover...",
-    "price": 5584,
-    "status": "Brand New",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "FANTASTIC FOUR EPIC COLLECTION: INTO THE TIME STREAM (The Fantastic Four Epi...",
-    "price": 3667,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Heroes Reborn Doom # 1 NM 1st Print Marvel Comic Book 7 J286",
-    "price": 1399,
-    "status": "Pre-Owned",
-    "shipping": 698,
-    "free_returns": true,
     "items_sold": null
   },
   {
@@ -664,26 +640,10 @@
     "items_sold": null
   },
   {
-    "name": "Power Pack Classic Omnibus #1 (Marvel Comics 2019)",
-    "price": 9500,
-    "status": "Brand New",
-    "shipping": 988,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
     "name": "The Uncanny X-Men #455 (Marvel Comics April 2005) NM/M 9.8 High Grade (T15)",
     "price": 999,
     "status": "Brand New",
     "shipping": 499,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "HEROES REBORN: DOOM #1 ONE-SHOT HIGH GRADE MARVEL COMIC BOOK",
-    "price": 499,
-    "status": "New (Other)",
-    "shipping": 600,
     "free_returns": false,
     "items_sold": null
   },
@@ -704,10 +664,10 @@
     "items_sold": null
   },
   {
-    "name": "DOOMSDAY - HEROES REBORN #1 (NM) Claremont McKone Marvel 2000 High Grade",
-    "price": 1898,
-    "status": "New (Other)",
-    "shipping": 844,
+    "name": "XTREME X-MEN Vol. 7: Storm- The Arena- Claremont, Kordy, Hanna *'04 1st PB Print",
+    "price": 999,
+    "status": "Brand New",
+    "shipping": 465,
     "free_returns": false,
     "items_sold": null
   },
@@ -720,54 +680,6 @@
     "items_sold": null
   },
   {
-    "name": "XTREME X-MEN Vol. 7: Storm- The Arena- Claremont, Kordy, Hanna *'04 1st PB Print",
-    "price": 999,
-    "status": "Brand New",
-    "shipping": 465,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Marvel Comics \"Heroes Reborn: Doom\" #1 (VF/NM 9.0) 1st App Lancer 2000",
-    "price": 999,
-    "status": "New (Other)",
-    "shipping": 499,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Heroes Reborn Doomsday #1 Doctor Doom 1999 Marvel Comics MCU Claremont Raw",
-    "price": 1250,
-    "status": "Pre-Owned",
-    "shipping": 563,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Heroes Reborn: Doom #1 (2000 Marvel Comics)",
-    "price": 599,
-    "status": "Pre-Owned",
-    "shipping": 599,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Contentious Spirits : Religion in Korean American History, 1903-1945, Paperba...",
-    "price": 3226,
-    "status": "New (Other)",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "X-Men Black Sun #2 2000 Marvel Comics High Grade Comic Book H73-222",
-    "price": 999,
-    "status": "New (Other)",
-    "shipping": 199,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
     "name": "X-MEN BLACK SUN #2 MARVEL COMICS 2000 BAGGED & BOARDED",
     "price": 725,
     "status": null,
@@ -776,10 +688,10 @@
     "items_sold": null
   },
   {
-    "name": "X-MEN BLACK SUN #2 (2000) - CGC GRADE 9.6 - VINCE EVANS PAINTED COVER!",
-    "price": 5000,
+    "name": "DOOMSDAY - HEROES REBORN #1 (NM) Claremont McKone Marvel 2000 High Grade",
+    "price": 1898,
     "status": "New (Other)",
-    "shipping": 1600,
+    "shipping": 844,
     "free_returns": false,
     "items_sold": null
   },
@@ -792,10 +704,42 @@
     "items_sold": null
   },
   {
-    "name": "Uncanny X-Men #455 Marvel Comic Book NM",
-    "price": 446,
+    "name": "Practice of Leadership : Developing the Next Generation of Leaders, Hardcover...",
+    "price": 4927,
     "status": "New (Other)",
-    "shipping": 495,
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Marvel Comics - Heroes Reborn: Doom #1 - 2000",
+    "price": 999,
+    "status": "New (Other)",
+    "shipping": 463,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Practice of Leadership : Developing the Next Generation of Leaders, Hardcover...",
+    "price": 5584,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Economics of Faith: Reforming Poverty in Early Modern Europe by Esther Chung-Kim",
+    "price": 16284,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "X-MEN BLACK SUN #2 (2000) - CGC GRADE 9.6 - VINCE EVANS PAINTED COVER!",
+    "price": 5000,
+    "status": "New (Other)",
+    "shipping": 1600,
     "free_returns": false,
     "items_sold": null
   },
@@ -808,27 +752,27 @@
     "items_sold": null
   },
   {
-    "name": "FANTASTIC FOUR EPIC - Paperback, by Simonson Walt; Fingeroth - Very Good",
-    "price": 3629,
+    "name": "Marvel Comics \"Heroes Reborn: Doom\" #1 (VF/NM 9.0) 1st App Lancer 2000",
+    "price": 999,
+    "status": "New (Other)",
+    "shipping": 499,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "FANTASTIC FOUR EPIC COLLECTION: INTO THE TIME STREAM (The Fantastic Four Epi...",
+    "price": 3667,
     "status": "Pre-Owned",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "Marvel Tales #198  MARVEL Comics 1987 VF",
-    "price": 700,
-    "status": null,
-    "shipping": 399,
+    "name": "FANTASTIC FOUR EPIC - Paperback, by Simonson Walt; Fingeroth - Very Good",
+    "price": 3627,
+    "status": "Pre-Owned",
+    "shipping": null,
     "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Marvel Comics - Heroes Reborn: Doom #1 - 2000",
-    "price": 999,
-    "status": "New (Other)",
-    "shipping": 463,
-    "free_returns": false,
     "items_sold": null
   },
   {
@@ -848,10 +792,18 @@
     "items_sold": null
   },
   {
-    "name": "Heroes Reborn: Doomsday #1 and Doom #1 Marvel Comics January 2000) NM or better!",
-    "price": 4000,
-    "status": "Brand New",
-    "shipping": 462,
+    "name": "X-Men Black Sun #2 2000 Marvel Comics High Grade Comic Book H73-222",
+    "price": 999,
+    "status": "New (Other)",
+    "shipping": 199,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Uncanny X-Men #455 Marvel Comic Book NM",
+    "price": 446,
+    "status": "New (Other)",
+    "shipping": 495,
     "free_returns": false,
     "items_sold": null
   },
@@ -888,10 +840,26 @@
     "items_sold": null
   },
   {
+    "name": "Power Pack Classic Omnibus #1 (Marvel Comics 2019)",
+    "price": 8500,
+    "status": "Brand New",
+    "shipping": 988,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
     "name": "Heroes Reborn: Doomsday #1 (2000) Dr Doom ~ Marvel Comics",
     "price": 599,
     "status": null,
     "shipping": 715,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Heroes Reborn: Doom #1 NM- 9.2 2000 Mike McKone Cover",
+    "price": 994,
+    "status": "Pre-Owned",
+    "shipping": 549,
     "free_returns": true,
     "items_sold": null
   },
@@ -901,14 +869,6 @@
     "status": "Pre-Owned",
     "shipping": 562,
     "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Heroes Reborn: Doom #1 NM- 9.2 2000 Mike McKone Cover",
-    "price": 994,
-    "status": "Pre-Owned",
-    "shipping": 549,
-    "free_returns": true,
     "items_sold": null
   },
   {
@@ -936,14 +896,6 @@
     "items_sold": null
   },
   {
-    "name": "2000 Marvel Comic Heroes Reborn: DOOM #1 Iconic Dr. Doom Cover High Grade! /M20",
-    "price": 999,
-    "status": null,
-    "shipping": 699,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
     "name": "Heroes Reborn Doomsday #1 1st Appearance of Lancer Marvel Comics",
     "price": 1995,
     "status": null,
@@ -968,6 +920,14 @@
     "items_sold": null
   },
   {
+    "name": "2000 Marvel Comic Heroes Reborn: DOOM #1 Iconic Dr. Doom Cover High Grade! /M20",
+    "price": 999,
+    "status": null,
+    "shipping": 699,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
     "name": "RARE 2000 Marvel Comic Heroes Reborn: DOOM #1 Iconic Dr. Doom Cover High Grade!",
     "price": 999,
     "status": "Pre-Owned",
@@ -976,33 +936,41 @@
     "items_sold": null
   },
   {
-    "name": "Heroes Reborn DOOMSDAY # 1 NM Marvel Comic Book Dr. Doom Iron Man 23 J239",
-    "price": 4400,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
+    "name": "Heroes Reborn: Doomsday #1 and Doom #1 Marvel Comics January 2000) NM or better!",
+    "price": 4000,
+    "status": "Brand New",
+    "shipping": 462,
+    "free_returns": false,
     "items_sold": null
   },
   {
-    "name": "Practice of Leadership : Developing the Next Generation of Leaders, Hardcover...",
-    "price": 4927,
+    "name": "Linear Algebra : An Introduction to Abstract Mathematics, Paperback by Valenz...",
+    "price": 7906,
     "status": "New (Other)",
     "shipping": null,
     "free_returns": false,
     "items_sold": null
   },
   {
-    "name": "Shop on eBay",
-    "price": 2000,
+    "name": "Economics of Faith: Reforming Poverty in Early Modern Europe by Esther Chung-Kim",
+    "price": 5255,
     "status": "Brand New",
     "shipping": null,
     "free_returns": false,
     "items_sold": null
   },
   {
-    "name": "Shop on eBay",
-    "price": 2000,
+    "name": "Future of Leadership Development, Hardcover by Kravis-Deroulet Leadership Con...",
+    "price": 20220,
     "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Linear Algebra : An Introduction to Abstract Mathematics, Paperback by Valenz...",
+    "price": 7906,
+    "status": "New (Other)",
     "shipping": null,
     "free_returns": false,
     "items_sold": null
@@ -1016,8 +984,208 @@
     "items_sold": null
   },
   {
-    "name": "Revitalizing Political Psychology : The Legacy of Harold D. Lasswell, Hardcov...",
-    "price": 15560,
+    "name": "Heroes Reborn Doomsday Doctor Doom CGC 9.8 Low census",
+    "price": 23500,
+    "status": "Brand New",
+    "shipping": 1500,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Heroes Reborn: Doomsday #1 and Doom #1 Marvel Comics January 2000) NM or better!",
+    "price": 4000,
+    "status": "Brand New",
+    "shipping": 462,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "RARE 2000 Marvel Comic Heroes Reborn: DOOM #1 Iconic Dr. Doom Cover High Grade!",
+    "price": 999,
+    "status": "Pre-Owned",
+    "shipping": 499,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Tom DeFalco Marvel Vario Hawkeye Epic Collection: The Way of The Arr (Paperback)",
+    "price": 4597,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "XTREME X-MEN Vol. 7: Storm- The Arena- Claremont, Kordy, Hanna *'04 1st PB Print",
+    "price": 999,
+    "status": "Brand New",
+    "shipping": 465,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "HEROES REBORN: DOOM #1 - MARVEL COMICS, MCU, ROBERT DOWNEY, JR.! FANTASTIC FOUR!",
+    "price": 800,
+    "status": "New (Other)",
+    "shipping": 463,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "X-Treme X-Men #39 2/04 - Versus Masque; Storm: The Arena, Part 4; Gladiator",
+    "price": 300,
+    "status": null,
+    "shipping": 450,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Uncanny X-men #455 Psylocke Cover Key VF w/ Poster Claremont 1st Print Marvel",
+    "price": 1499,
+    "status": null,
+    "shipping": 500,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "HEROES REBORN: DOOMSDAY #1 ONE-SHOT HIGH GRADE MARVEL COMIC BOOK B-323",
+    "price": 844,
+    "status": null,
+    "shipping": 773,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Practice of Leadership : Developing the Next Generation of Leaders, Hardcover...",
+    "price": 5584,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Heroes Reborn DOOMSDAY # 1 NM Marvel Comic Book Dr. Doom Iron Man 23 J239",
+    "price": 4400,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Future of Leadership Development, Hardcover by Kravis-Deroulet Leadership Con...",
+    "price": 20220,
+    "status": "New (Other)",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "The Constitutional Presidency by Joseph M. Bessette (English) Hardcover Book",
+    "price": 8660,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "DOOM - HEROES REBORN #1 (NM) DR. DOOM! Claremont McKone Marvel 2000 High Grade",
+    "price": 1195,
+    "status": "New (Other)",
+    "shipping": 844,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Doomsday Heroes Reborn #1 Newsstand 1:20 Rare 2,334 Copies Only 4 Listed Dr Doom",
+    "price": 9000,
+    "status": "Pre-Owned",
+    "shipping": 700,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Power Pack Classic Omnibus #1 (Marvel Comics 2019)",
+    "price": 8500,
+    "status": "Brand New",
+    "shipping": 988,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Exiles (2001 series) #7 Marvel comics",
+    "price": 325,
+    "status": "New (Other)",
+    "shipping": 395,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "NEW EXCALIBUR 14 DIRECT EDITION MIKE MCKONE COVER MARVEL COMICS 2007",
+    "price": 295,
+    "status": "New (Other)",
+    "shipping": 595,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "2005 Marvel Comic Uncanny X-Men #455 FN+/VF",
+    "price": 640,
+    "status": "Pre-Owned",
+    "shipping": 640,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "X-TREME X-MEN (2001 Series) #39 NM, Storm: the Arena Pt. 4 Marvel",
+    "price": 239,
+    "status": "New (Other)",
+    "shipping": 705,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "HEROS REBORN 1 DOOMSDAY (9.8)  MARVEL (b071)",
+    "price": 20000,
+    "status": null,
+    "shipping": 500,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New Excalibur #13 (2005) Marvel Comics VF/NM",
+    "price": 420,
+    "status": "Pre-Owned",
+    "shipping": 635,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "The Uncanny X-Men #455 (Marvel Comics April 2005) CGC 9.8",
+    "price": 8999,
+    "status": "Brand New",
+    "shipping": 767,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "UNCANNY X-MEN, Vol. 1 #455 (2005) NM | KEY! 1st App. of HAUK'KA",
+    "price": 1039,
+    "status": "New (Other)",
+    "shipping": 519,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Heroes Reborn: Doomsday #1 Robert Downey Jr. Doctor Doom MCU!!! NM LOT 2",
+    "price": 2999,
+    "status": "New (Other)",
+    "shipping": 999,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Contentious Spirits : Religion in Korean American History, 1903-1945, Paperba...",
+    "price": 3300,
     "status": "Brand New",
     "shipping": null,
     "free_returns": false,
@@ -1032,142 +1200,6 @@
     "items_sold": null
   },
   {
-    "name": "Economics of Faith: Reforming Poverty in Early Modern Europe by Esther Chung-Kim",
-    "price": 5255,
-    "status": "Brand New",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "HEROES REBORN: DOOM 1 \u2022 One Shot \u2022 Marvel Comics 2000",
-    "price": 800,
-    "status": null,
-    "shipping": 695,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "FANTASTIC FOUR EPIC - Paperback, by Simonson Walt; Fingeroth - Very Good",
-    "price": 3629,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "UNCANNY X-MEN, Vol. 1 #455 (2005) NM | KEY! 1st App. of HAUK'KA",
-    "price": 1039,
-    "status": "New (Other)",
-    "shipping": 519,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "NEW EXCALIBUR 14 DIRECT EDITION MIKE MCKONE COVER MARVEL COMICS 2007",
-    "price": 295,
-    "status": "New (Other)",
-    "shipping": 595,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Heroes Reborn Doomsday Comic 1 First Print Cover A Mike McKone 2000 Claremont",
-    "price": 1998,
-    "status": null,
-    "shipping": 542,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Uncanny X-men #455 Psylocke Cover Key VF w/ Poster Claremont 1st Print Marvel",
-    "price": 1499,
-    "status": null,
-    "shipping": 500,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "X-Treme X-Men #39 2/04 - Versus Masque; Storm: The Arena, Part 4; Gladiator",
-    "price": 300,
-    "status": null,
-    "shipping": 450,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Heroes Reborn: Doomsday #1 and Doom #1 Marvel Comics January 2000) NM or better!",
-    "price": 4000,
-    "status": "Brand New",
-    "shipping": 462,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Embodiment of Leadership, Paperback by Melina, Lois Ruskai (EDT); Burgess, Gl...",
-    "price": 3304,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Heroes Reborn Doomsday # 1 NM 1st Print Marvel Comic Book Dr. Doom Key 1 MS1",
-    "price": 3999,
-    "status": null,
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Contentious Spirits : Religion in Korean American History, 1903-1945, Paperba...",
-    "price": 3300,
-    "status": "Brand New",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "The Constitutional Presidency by Joseph M. Bessette (English) Hardcover Book",
-    "price": 8660,
-    "status": "Brand New",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Power Pack Classic Omnibus #1 (Marvel Comics 2019)",
-    "price": 9500,
-    "status": "Brand New",
-    "shipping": 988,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Hawkeye Epic Collection: The Way of The Arrow",
-    "price": 3370,
-    "status": "Brand New",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "HEROES REBORN: DOOM #1 ONE-SHOT  MARVEL Comics COMIC BOOK MCU /M17 /",
-    "price": 1299,
-    "status": null,
-    "shipping": 699,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "New Excalibur #13 (2005) Marvel Comics VF/NM",
-    "price": 420,
-    "status": "Pre-Owned",
-    "shipping": 635,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
     "name": "HAWKEYE EPIC COLLECTION: THE WAY OF THE ARROW by DeFalco",
     "price": 3899,
     "status": "Pre-Owned",
@@ -1176,163 +1208,19 @@
     "items_sold": null
   },
   {
-    "name": "Uncanny X-Men #455 Marvel Comics 2005 NM",
-    "price": 599,
-    "status": "New (Other)",
-    "shipping": 499,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "HEROES REBORN: DOOMSDAY #1 ONE-SHOT HIGH GRADE MARVEL COMIC BOOK B-323",
-    "price": 844,
-    "status": null,
-    "shipping": 773,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Heroes Reborn Doomsday #1 1st Appearance of Lancer Marvel Comics",
-    "price": 1995,
-    "status": null,
-    "shipping": 650,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Claremont McKenna College Burgundy Ceramic Coffee Mug",
-    "price": 2197,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Doomsday Heroes Reborn #1 Newsstand 1:20 Rare 2,334 Copies Only 4 Listed Dr Doom",
-    "price": 9000,
-    "status": "Pre-Owned",
-    "shipping": 700,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "2005 Marvel Comic Uncanny X-Men #455 FN+/VF",
-    "price": 640,
-    "status": "Pre-Owned",
-    "shipping": 640,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Tom DeFalco Marvel Vario Hawkeye Epic Collection: The Way of The Arr (Paperback)",
-    "price": 4597,
+    "name": "Endgames: Military Response to Protest in Arab Autocracies by Hicham Bou Nassif",
+    "price": 20770,
     "status": "Brand New",
     "shipping": null,
     "free_returns": false,
     "items_sold": null
   },
   {
-    "name": "Revitalizing Political Psychology : The Legacy of Harold D. Lasswell, Hardcov...",
-    "price": 15560,
-    "status": "New (Other)",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Auteur Theory and My Son John by James Morrison (English) Hardcover Book",
-    "price": 19534,
-    "status": "Brand New",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Future of Leadership Development, Hardcover by Kravis-Deroulet Leadership Con...",
-    "price": 20220,
-    "status": "Brand New",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Economics of Faith: Reforming Poverty in Early Modern Europe by Esther Chung-Kim",
-    "price": 16284,
-    "status": "Brand New",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Marvel comics Exiles (2001 series) #61",
-    "price": 1619,
+    "name": "X-Men #455 Marvel Comics 2005",
+    "price": 500,
     "status": "Pre-Owned",
-    "shipping": 739,
+    "shipping": 425,
     "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "AVENGERS X-MEN MAXIMUM SECURITY MARVEL COMICS TPB GRAPHIC NOVEL RONAN AND EGO",
-    "price": 2499,
-    "status": "Brand New",
-    "shipping": 2499,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "DOOM - HEROES REBORN #1 (NM) DR. DOOM! Claremont McKone Marvel 2000 High Grade",
-    "price": 1195,
-    "status": "New (Other)",
-    "shipping": 844,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "HEROES REBORN: DOOM #1 - MARVEL COMICS, MCU, ROBERT DOWNEY, JR.! FANTASTIC FOUR!",
-    "price": 800,
-    "status": "New (Other)",
-    "shipping": 463,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Hawkeye Epic Collection TPB Way Of Arrow Brand New Condition Graphic Novel Comic",
-    "price": 5399,
-    "status": "Brand New",
-    "shipping": 600,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "HEROS REBORN 1 DOOMSDAY (9.8)  MARVEL (b071)",
-    "price": 20000,
-    "status": null,
-    "shipping": 500,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Losing Trust in the World: Holocaust Scholars Confront Torture by Leonard Grob (",
-    "price": 6686,
-    "status": "Brand New",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Social Psychology of Political Polarization by Piercarlo Valdesolo (English) Pap",
-    "price": 7414,
-    "status": "Brand New",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Exiles (2001 series) #7 Marvel comics",
-    "price": 420,
-    "status": "New (Other)",
-    "shipping": 463,
-    "free_returns": false,
     "items_sold": null
   },
   {
@@ -1344,10 +1232,10 @@
     "items_sold": null
   },
   {
-    "name": "Heroes Reborn: Doomsday #1 Robert Downey Jr. Doctor Doom MCU!!! NM LOT 2",
-    "price": 2999,
+    "name": "Exiles (2001 series) #7 Marvel comics",
+    "price": 420,
     "status": "New (Other)",
-    "shipping": 999,
+    "shipping": 463,
     "free_returns": false,
     "items_sold": null
   },
@@ -1360,16 +1248,48 @@
     "items_sold": null
   },
   {
-    "name": "Avengers / X-Men: Maximum Security",
-    "price": 13340,
+    "name": "AVENGERS X-MEN MAXIMUM SECURITY MARVEL COMICS TPB GRAPHIC NOVEL RONAN AND EGO",
+    "price": 2499,
     "status": "Brand New",
+    "shipping": 2499,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Hawkeye Epic Collection TPB Way Of Arrow Brand New Condition Graphic Novel Comic",
+    "price": 5399,
+    "status": "Brand New",
+    "shipping": 600,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Revitalizing Political Psychology : The Legacy of Harold D. Lasswell, Hardcov...",
+    "price": 15560,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Contentious Spirits : Religion in Korean American History, 1903-1945, Paperba...",
+    "price": 3226,
+    "status": "New (Other)",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "FANTASTIC FOUR EPIC COLLECTION: INTO THE TIME STREAM (THE By Walter Simonson",
+    "price": 6875,
+    "status": "New (Other)",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "Hawkeye Epic Collection: The Way of the Arrow by Tom Defalco: New",
-    "price": 5934,
+    "name": "Hawkeye Epic Collection: The Way of The Arrow",
+    "price": 3370,
     "status": "Brand New",
     "shipping": null,
     "free_returns": false,
@@ -1384,27 +1304,11 @@
     "items_sold": null
   },
   {
-    "name": "Future of Leadership Development, Hardcover by Kravis-Deroulet Leadership Con...",
-    "price": 20220,
-    "status": "New (Other)",
+    "name": "Hawkeye Epic Collection: The Way of the Arrow by Tom Defalco: New",
+    "price": 5934,
+    "status": "Brand New",
     "shipping": null,
     "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Exiles (2001 series) #7 Marvel comics",
-    "price": 325,
-    "status": "New (Other)",
-    "shipping": 395,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "FANTASTIC FOUR EPIC COLLECTION: INTO THE TIME STREAM (THE By Walter Simonson",
-    "price": 6875,
-    "status": "New (Other)",
-    "shipping": null,
-    "free_returns": true,
     "items_sold": null
   },
   {
@@ -1412,14 +1316,6 @@
     "price": 500,
     "status": "New (Other)",
     "shipping": 499,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Maximum Security by Kurt Busiek (2010, Paperback)",
-    "price": 14999,
-    "status": "Pre-Owned",
-    "shipping": 699,
     "free_returns": false,
     "items_sold": null
   },
@@ -1435,6 +1331,22 @@
     "name": "Hawkeye Epic Collection: The Way of the Arrow by Tom DeFalco",
     "price": 3658,
     "status": "Brand New",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Maximum Security by Kurt Busiek (2010, Paperback)",
+    "price": 14999,
+    "status": "Pre-Owned",
+    "shipping": 699,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Practice of Leadership : Developing the Next Generation of Leaders, Hardcover...",
+    "price": 4927,
+    "status": "New (Other)",
     "shipping": null,
     "free_returns": false,
     "items_sold": null

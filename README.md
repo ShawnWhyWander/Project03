@@ -14,7 +14,7 @@ Each item dictionary in the JSON includes:
 
 ---
 
-## How to Run
+## How to Run and Save JSON Files
 
 Make sure you have Python 3 and the required libraries installed:
 
@@ -23,6 +23,13 @@ pip install requests beautifulsoup4
 python ebay-dl.py "claremont mckenna"
 python ebay-dl.py "macbook"
 python ebay-dl.py "golf club"
+```
+
+## How to Run and Save CSV Files
+```bash
+python ebay-dl.py "claremont mckenna" --csv
+python ebay-dl.py "macbook" --csv
+python ebay-dl.py "golf club" --csv
 ```
 
 link to the course project [Project03](https://github.com/mikeizbicki/cmc-csci040/tree/2025spring/project_03_webscraping#project-3-scraping-from-ebay)

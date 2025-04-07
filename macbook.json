@@ -1,56 +1,24 @@
 [
   {
-    "name": "Shop on eBay",
-    "price": 2000,
-    "status": "Brand New",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Shop on eBay",
-    "price": 2000,
-    "status": "Brand New",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "APPLE MACBOOK PRO 15 RETINA Laptop | i7 16GB RAM + 256GB SSD | WARRANTY",
-    "price": 23900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "New ListingMacBook Pro 16\" M3 Max, 128GB RAM, 2TB SSD, 16-Core CPU, 40-Core GPU, Black.",
-    "price": 239998,
-    "status": "Pre-Owned",
-    "shipping": 6745,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 16 M1 Max 10-Core 64GB 1TB Silver 2021 - Used Very Good",
-    "price": 139999,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "APPLE MACBOOK AIR 13\" LAPTOP | i5 8GB + 512GB SSD | Os Big Sur. WARRANTY",
-    "price": 12900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
     "name": "Apple MacBook Pro M3 Pro 14.2\" 11-CoreCPU 14-CoreGPU 2023 512GB SSD 18GB RAM",
     "price": 118900,
     "status": "Excellent - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Air 13\" Apple M3 chip 16GB RAM 256GB SSD Midnight MC8K4LL/A 2024",
+    "price": 74900,
+    "status": "Open Box",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New Listing2019 Apple MacBook Air 13\" - 256GB - Retina - A1932 - 8GB",
+    "price": 20999,
+    "status": "Pre-Owned",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
@@ -64,6 +32,22 @@
     "items_sold": null
   },
   {
+    "name": "Apple MacBook Air 13.3\" Intel Core i3 1.10 GHz 8GB 128GB SSD (2020) MWTJ2LL/A",
+    "price": 34799,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New Listing2020 Apple MacBook Air 13.3\" (256GB SSD, Apple M1, 8GB) Used",
+    "price": 39999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
     "name": "Apple 16\" MacBook Pro 2.6GHz i7 16GB 512GB SSD - Refurbished",
     "price": 47655,
     "status": "Excellent - Refurbished",
@@ -72,25 +56,9 @@
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Pro 13\" Late 2020 M1 1TB SSD 16GB RAM Space Gray - Good",
-    "price": 64999,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook 13\" Laptop READY TO USE w/ macOS 10.13 HIGH SIERRA",
-    "price": 14999,
-    "status": null,
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 15\" Touch Bar 256GB SSD 16GB i7 Ventura Space Gray - Warranty",
-    "price": 49900,
-    "status": null,
+    "name": "New Listing2017 Apple MacBook Pro 15-inch \u2013 i7 2.9 GHz 16GB RAM 1TB SSD | Intel HD Graph630",
+    "price": 60000,
+    "status": "Pre-Owned",
     "shipping": null,
     "free_returns": false,
     "items_sold": null
@@ -112,128 +80,56 @@
     "items_sold": null
   },
   {
-    "name": "Apple Macbook Pro 13.3\u201d 2.5GHz intel Core i5 16GB RAM 1TB HDD Turbo\ud83d\udd25",
-    "price": 24900,
+    "name": "Apple MacBook 13\" Laptop READY TO USE w/ macOS 10.13 HIGH SIERRA",
+    "price": 14999,
     "status": null,
     "shipping": null,
     "free_returns": false,
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Pro 13.3\u201d 2.5GHz i5 16GB RAM 1TB HDD Loaded",
-    "price": 24900,
+    "name": "Apple MacBook Pro 15\" Touch Bar 256GB SSD 16GB i7 Ventura Space Gray - Warranty",
+    "price": 49900,
     "status": null,
     "shipping": null,
     "free_returns": false,
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Air A1466 13.3\" Intel I5 CPU 4GB RAM 120 SSD",
-    "price": 10999,
+    "name": "13 Apple Macbook Pro Core i5 3.5GHz Turbo 512GB SSD 16GB A1706 TouchBar Warranty",
+    "price": 48900,
     "status": null,
     "shipping": null,
     "free_returns": false,
     "items_sold": null
   },
   {
-    "name": "Apple MacBook 12\" - Core m3 | m5 | m7 - 8GB RAM - 256GB | 512GB SSD - Good",
-    "price": 24220,
+    "name": "13 Apple Macbook Pro Core i7 4.0GHz Turbo 256GB SSD 16GB A1706 TouchBar Warranty",
+    "price": 47500,
     "status": null,
     "shipping": null,
     "free_returns": false,
     "items_sold": null
   },
   {
-    "name": "Apple Macbook Pro 13\" Laptop | UPGRADED i5 16GB RAM | 1TB HD | MacOS | WARRANTY",
-    "price": 14900,
-    "status": "Pre-Owned",
+    "name": "13 Apple Macbook Pro Core Turbo i7 4GHz 512GB SSD 16GB A1706 TouchBar Warranty",
+    "price": 49900,
+    "status": null,
     "shipping": null,
-    "free_returns": true,
+    "free_returns": false,
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Pro A1278 13\" Intel Core i5 2.5Ghz CPU 8GB RAM 256G SSD",
-    "price": 8899,
-    "status": "Pre-Owned",
+    "name": "Apple MacBook 13\" Unibody  A1342 8GB RAM 256GB SSD",
+    "price": 18900,
+    "status": null,
     "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Air A1466 13.3\" Intel I5 CPU 4GB RAM 120 SSD",
-    "price": 10999,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
+    "free_returns": false,
     "items_sold": null
   },
   {
     "name": "Apple Macbook Air MLY33LL/A 2022 M2 - Magsafe 3 - 13.6\"  8GB/256GB SSD Excellent",
     "price": 65700,
-    "status": "Excellent - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "13\" Apple MacBook Air SONOMA 3.6Ghz TURBO i5 16GB 256GB SSD A1932 Warranty",
-    "price": 44900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple Macbook Air M2 2022 13\" 8-Core CPU 8-Core GPU 256GB 8GB Ram Midnight",
-    "price": 64499,
-    "status": "Excellent - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 16 M1 Max 10-Core 64GB 1TB Silver 2021 - Used Excellent",
-    "price": 139999,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple Macbook Air 13\" 2015 | i5 8GB RAM 512GB SSD | Monterey + 2 Year Warranty",
-    "price": 14155,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "13.3\" 2020, MacBook Air, BTO, Apple M1, 16GB, 256GB SSD, 7C",
-    "price": 52495,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Air 13\" M2 chip 16GB RAM 256GB SSD Midnight MC7X4LL/A 2022 Model",
-    "price": 69900,
-    "status": "Open Box",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Air 13.3\" Intel Core i3 1.10 GHz 8GB 128GB SSD (2020) MWTJ2LL/A",
-    "price": 34799,
-    "status": "Very Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro M3 14.2\" 8-CoreCPU 10-CoreGPU 2023 8GB RAM 512GB SSD Excellent",
-    "price": 89900,
     "status": "Excellent - Refurbished",
     "shipping": null,
     "free_returns": true,
@@ -256,46 +152,6 @@
     "items_sold": null
   },
   {
-    "name": "MacBook Air 13-inch 2024 M3 / 16GB RAM / 512GB SSD / 10-Core GPU / Space Gray",
-    "price": 87900,
-    "status": "Open Box",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 13.3\u201d 2.5GHz i5 16GB RAM 1TB HDD Loaded",
-    "price": 24900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "2024 Apple MacBook Air 15-inch M3 Chip 16GB RAM 256GB SSD Midnight MC9G4LL/A",
-    "price": 88900,
-    "status": "Open Box",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple Macbook Pro 13.3\u201d 2.5GHz intel Core i5 16GB RAM 1TB HDD Turbo\ud83d\udd25",
-    "price": 24900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 14\" Apple M4 chip 16GB RAM 512GB SSD Space Black MW2U3LL/A",
-    "price": 129900,
-    "status": "Open Box",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
     "name": "Apple MacBook Air 13-inch M2 Chip 16GB RAM 256GB SSD Midnight MC7X4LL/A",
     "price": 69900,
     "status": "Open Box",
@@ -304,24 +160,8 @@
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Pro 15\" Touch Bar 256GB SSD 16GB i7 Ventura Space Gray - Warranty",
-    "price": 49900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
     "name": "Apple Macbook Pro 13 inch A1989 Sequoia 16GB Quad Core i7 512GB SSD + Warranty",
     "price": 52500,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "2015 Apple MacBook Air  13 inch / Dual Core i5/ 8GB / 256GB SSD- OS Monterey",
-    "price": 14900,
     "status": "Pre-Owned",
     "shipping": null,
     "free_returns": true,
@@ -336,64 +176,40 @@
     "items_sold": null
   },
   {
-    "name": "Apple 2019 MacBook Air 13\" 1.6GHz Dual-Core i5 16GB RAM 128GB SSD - Very good",
-    "price": 33999,
-    "status": "Very Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro M1 Pro 16\" 10-Core CPU 16-Core GPU 2021 512GB SSD 16GB RAM",
-    "price": 84400,
-    "status": "Very Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Air with M1 Chip 13-inch 16GB 512GB SSD 8GPU Space Gray - OSX 2024",
-    "price": 59900,
-    "status": "Excellent - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple Macbook Air 13\" Laptop | i5 4GB RAM + 128GB SSD | MacOS Big Sur | Warranty",
-    "price": 12825,
+    "name": "Apple MacBook Pro 15\" Touch Bar 256GB SSD 16GB i7 Ventura Space Gray - Warranty",
+    "price": 49900,
     "status": "Pre-Owned",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Pro 13.3\" Intel Core i5 2.5ghz, 16GB Ram , 500GB Hdd MacOS 10.15",
-    "price": 10500,
+    "name": "13 Apple Macbook Pro Core i5 3.5GHz Turbo 512GB SSD 16GB A1706 TouchBar Warranty",
+    "price": 48900,
     "status": "Pre-Owned",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "2020 Apple MacBook Air 13\" i3 1.1GHz/8GB/256GB SSD (Silver) A2179",
-    "price": 24999,
+    "name": "Apple Macbook Pro 13\" Laptop | UPGRADED i5 16GB RAM | 1TB HD | MacOS | WARRANTY",
+    "price": 14900,
     "status": "Pre-Owned",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "Apple Macbook Pro 15\" Retina - i7 2.2GHZ 16GB 1TB SSD - OS Monterey + Warranty",
-    "price": 29500,
-    "status": "Pre-Owned",
+    "name": "Apple MacBook Air 13\" M2 chip 16GB RAM 256GB SSD Midnight MC7X4LL/A 2022 Model",
+    "price": 69900,
+    "status": "Open Box",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "Apple MacBook 12\" - Core m3 | m5 | m7 - 8GB RAM - 256GB | 512GB SSD - Good",
-    "price": 18520,
+    "name": "13.3\" 2020, MacBook Air, BTO, Apple M1, 16GB, 256GB SSD, 7C",
+    "price": 52495,
     "status": "Good - Refurbished",
     "shipping": null,
     "free_returns": true,
@@ -408,48 +224,8 @@
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Pro 15.4-Inch Intel Core i9, 32GB RAM, 512GB SSD, Space Gray",
-    "price": 43900,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple 2024 MacBook Pro 16-inch M4 Pro 24GB RAM 512GB SSD Space Black MX2X3LL/A",
-    "price": 189900,
-    "status": "Open Box",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 13\" A2159 i5-8257U 16GB RAM 256GB SSD Space Gray",
-    "price": 26999,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro A1278 13\" Laptop Intel Core i5-3210M 2.50GHz 4GB RAM 500GB HDD",
-    "price": 4999,
-    "status": "Pre-Owned",
-    "shipping": 1386,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "LOADED!! Apple MacBook Pro Retina 15\" i7 + TouchBar + 2023 OS + 16 GB RAM + MORE",
-    "price": 69825,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro Core i5 2.3GHz, 13.3-inch, 8GB RAM, 256GB SSD, Space Gray",
-    "price": 24900,
+    "name": "Apple Macbook Air 13\" Laptop | i5 4GB RAM + 128GB SSD | MacOS Big Sur | Warranty",
+    "price": 12825,
     "status": "Pre-Owned",
     "shipping": null,
     "free_returns": true,
@@ -464,18 +240,42 @@
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Pro 15.4-Inch Intel Core i9, 32GB RAM, 1TB SSD, Space Grey",
-    "price": 45900,
+    "name": "Apple MacBook Air A1466 13.3\" Intel I5 CPU 4GB RAM 120 SSD",
+    "price": 10999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 13\" A2159 i5-8257U 16GB RAM 256GB SSD Space Gray",
+    "price": 26999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "APPLE MACBOOK PRO 15 RETINA Laptop | i7 16GB RAM + 256GB SSD | WARRANTY",
+    "price": 23900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook 12\" - Core m3 | m5 | m7 - 8GB RAM - 256GB | 512GB SSD - Good",
+    "price": 18520,
     "status": "Good - Refurbished",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "Apple Macbook Pro 13 Inch | i5 8GB RAM + 128GB SSD | OS High Sierra | WARRANTY",
-    "price": 10900,
+    "name": "New ListingMacBook Air M2 13 inch 16gb RAM,  512gb SSD, 8-Core GPU, Space Gray",
+    "price": 64900,
     "status": "Pre-Owned",
-    "shipping": null,
+    "shipping": 1995,
     "free_returns": false,
     "items_sold": null
   },
@@ -488,104 +288,8 @@
     "items_sold": null
   },
   {
-    "name": "Apple 2024 MacBook Pro 14-inch M4 Chip 16GB RAM 512GB SSD Space Black MW2U3LL/A",
-    "price": 129900,
-    "status": "Open Box",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Air Core i5 1.6GHz 8GB RAM 256GB SSD 13\" MVFJ2LL/A (2019) - Good",
-    "price": 28997,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Air A2337 (Late 2020) Laptop 13\" M1 CPU 16GB RAM 256 SSD Gray",
-    "price": 49999,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "2020 Apple MacBook Air 13 1.1GHz Core i5 16GB 256GB SSD Gray MVH22LL/A, Good",
-    "price": 45000,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 13.3-Inch Intel Core i7 3.1GHz, 16GB Ram, 1TB SSD - Warranty",
-    "price": 26900,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Air 13-inch 2022 M2 / 8GB RAM / 256GB SSD / 8-Core GPU / Midnight",
-    "price": 69900,
-    "status": "Open Box",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple Macbook Pro 13\" Laptop i5 8GB RAM 128GB SSD HD. Os High Sierra. DVD Player",
-    "price": 13900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "EXCELLENT Apple MacBook Pro 15\" RETINA 3.4GHz i7 Turbo 16GB RAM 512GB SSD",
-    "price": 39102,
-    "status": "Very Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "13 Apple Macbook Pro Core i5 3.5GHz Turbo 512GB SSD 16GB A1706 TouchBar Warranty",
-    "price": 48900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Shop on eBay",
-    "price": 2000,
-    "status": "Brand New",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Shop on eBay",
-    "price": 2000,
-    "status": "Brand New",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 15\" i7 Retina 1TB SSD 16GB 3.4Ghz Monterey - 3 Year Warranty",
-    "price": 49900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Air 13\" M1 8C7C 16GB RAM 256GB SSD, Space Gray, MGN63LL/A",
-    "price": 90000,
+    "name": "13 Apple Macbook Pro Core i7 4.0GHz Turbo 256GB SSD 16GB A1706 TouchBar Warranty",
+    "price": 47500,
     "status": "Pre-Owned",
     "shipping": null,
     "free_returns": true,
@@ -600,79 +304,231 @@
     "items_sold": null
   },
   {
-    "name": "13\" Apple MacBook Air SONOMA 3.6Ghz TURBO i5 16GB 256GB SSD A1932 Warranty",
-    "price": 44900,
+    "name": "APPLE MACBOOK PRO A2141 BTO/CTO | CORE I7-9750H | 512GB | 16GB RAM | SEQUOIA",
+    "price": 40999,
     "status": "Pre-Owned",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Pro 13.3\" Intel Core i5 2.5ghz, 16GB Ram , 500GB Hdd MacOS 10.15",
-    "price": 10500,
+    "name": "New ListingMacBook Pro M1 8-Core CPU and 8-Core GPU 13\" (Late 2020) 256GB SSD    READ",
+    "price": 35000,
+    "status": "Parts Only",
+    "shipping": 1619,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook Pro 13.3\u201d 2.5GHz intel Core i5 16GB RAM 1TB HDD Turbo\ud83d\udd25",
+    "price": 24900,
     "status": "Pre-Owned",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Pro 15 Core i7 16GB 256GB Silver 2015 - Used Very Good",
-    "price": 17999,
+    "name": "2020 Apple MacBook Air 13\" i3 1.1GHz/8GB/256GB SSD (Silver) A2179",
+    "price": 24999,
     "status": "Pre-Owned",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Pro 15 inch Touch Bar CORE i7 3.9GHz TURBO 16GB RAM 512GB SSD",
-    "price": 49900,
+    "name": "Apple MacBook Pro A1278 13\" Intel Core i5 2.5Ghz CPU 8GB RAM 256G SSD",
+    "price": 8899,
     "status": "Pre-Owned",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Air A1466 i5-4260U 8GB 256GB SSD Mojave",
-    "price": 10499,
+    "name": "New ListingApple MacBook 12 inch Laptop - MLHE2LL/A (2016, Gold)",
+    "price": 17495,
+    "status": "Pre-Owned",
+    "shipping": 1390,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro A1278 13\" Laptop Intel Core i5-3210M 2.50GHz 4GB RAM 500GB HDD",
+    "price": 4999,
+    "status": "Pre-Owned",
+    "shipping": 1386,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 13\" Late 2020 M1 1TB SSD 16GB RAM Space Gray - Good",
+    "price": 64999,
     "status": "Good - Refurbished",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Pro 13\" A1278 2.5GHz Intel Core i5 8GB RAM 120GB SSD Mid 2012",
-    "price": 11900,
+    "name": "Apple MacBook 13\" Unibody  A1342 8GB RAM 256GB SSD",
+    "price": 18900,
     "status": "Pre-Owned",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "2019 Apple MacBook Pro 16\" i7 2.60GHz/32GB/2TB - (Space Gray) A2141 w/Warranty",
-    "price": 55599,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
+    "name": "Apple MacBook Air 11\" A1465 2015  Core i5 1.6GHz/256GB SSD/8GB/macOS Monterey #2",
+    "price": 11000,
+    "status": "Pre-Owned",
+    "shipping": 2201,
+    "free_returns": false,
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Air with M1 Chip 13-inch 16GB 512GB SSD 8GPU Space Gray - OSX 2024",
-    "price": 59900,
+    "name": "New ListingMacBook Air",
+    "price": 17500,
+    "status": "Pre-Owned",
+    "shipping": 961,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro M3 14.2\" 8-CoreCPU 10-CoreGPU 2023 8GB RAM 512GB SSD Excellent",
+    "price": 89900,
     "status": "Excellent - Refurbished",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Pro 15.4-Inch i7 2.8GHz, 16GB Ram, 1TB SSD - 90 Day Warranty",
-    "price": 29900,
+    "name": "New ListingAPPLE MACBOOK PRO A1286 2.53 GHz i5 8GB RAM 1tb SSD",
+    "price": 42500,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "2013 Apple MacBook Pro A1425 13\" i5 2.6GHz 8GB RAM 256GB SSD ME662LL/A, Good",
+    "price": 16299,
     "status": "Good - Refurbished",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Pro 15\" Touch Bar 256GB SSD 16GB i7 Ventura Space Gray - Warranty",
+    "name": "New ListingApple MacBook Pro 16\" (512GB SSD, Intel Core i7 9th Gen., 2.60 GHz, 16GB) USED",
+    "price": 39999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro Core i7 2.0GHz 8GB RAM 256GB SSD 15\" ME293LL/A, Good",
+    "price": 17999,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook 12\" - Core m3 | m5 | m7 - 8GB RAM - 256GB | 512GB SSD - Excellent",
+    "price": 21370,
+    "status": "Excellent - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro M1 Pro 16\" 10-Core CPU 16-Core GPU 2021 512GB SSD 16GB RAM",
+    "price": 84400,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "APPLE MACBOOK PRO MPXQ2LL/A | INTEL CORE I5-7360U | 128GB | 8GB RAM | VENTURA",
+    "price": 21999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingApple MacBook Air 13 in 2022 Silver/Apple M2 3.49 GHz, 256 GB 8 GB 10-Core",
+    "price": 50000,
+    "status": "Open Box",
+    "shipping": 1507,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingApple Macbook Air 2020 A2337 13.3 M1 3.2 Ghz 8 GB 256 GB SSD MacOS Sequoia 15.4",
+    "price": 33997,
+    "status": "Pre-Owned",
+    "shipping": 1529,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Air 13.3\" Laptop Apple M1 chip 16GB Memory 512GB SSD SPACE GRAY",
+    "price": 53999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook Pro 15\" Retina - Quad Core i7 + 16GB RAM + 512GB SSD - OS Catalina",
+    "price": 17955,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 14\" Apple M4 chip 16GB RAM 512GB SSD Space Black MW2U3LL/A",
+    "price": 129900,
+    "status": "Open Box",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook Pro 13\" Laptop i5 8GB RAM 128GB SSD HD. Os High Sierra. DVD Player",
+    "price": 13900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "2013 Apple MacBook Pro 15.4'' Intel Core i7 512GB SSD 16GB RAM ME665LL/A, Good",
+    "price": 20699,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New Listing2020 Apple MacBook Air 13.3\" M1  8GB RAM 256GB SSD A2337",
+    "price": 37500,
+    "status": "Pre-Owned",
+    "shipping": 1138,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Apple 2019 MacBook Air 13\" 1.6GHz Dual-Core i5 16GB RAM 128GB SSD - Very good",
+    "price": 33999,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "15\" Apple MacBook Pro - 3.8Ghz Turbo i7 16GB 256GB SSD Touch Bar - 1 Yr Warranty",
     "price": 49900,
     "status": "Pre-Owned",
     "shipping": null,
@@ -688,56 +544,40 @@
     "items_sold": null
   },
   {
-    "name": "15\" Apple MacBook Pro - 3.8Ghz Turbo i7 16GB 512GB SSD Touch Bar - 1 Yr Warranty",
-    "price": 51900,
+    "name": "13 Apple Macbook Pro Core i7 4.0GHz Turbo 256GB SSD 16GB A1706 TouchBar Warranty",
+    "price": 47500,
     "status": "Pre-Owned",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Air 11\" A1465 2015  Core i5 1.6GHz/256GB SSD/8GB/macOS Monterey #2",
-    "price": 11000,
-    "status": "Pre-Owned",
-    "shipping": 2201,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "New Listing2020 MACBOOK PRO 13 inch Touch Bar i5 2.0GHz 512GB SSD 16GB RAM NOT WORKING",
-    "price": 13994,
-    "status": "Parts Only",
-    "shipping": 767,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro Core i5 2.3GHz, 13.3-inch, 8GB RAM, 256GB SSD, Space Gray",
-    "price": 24900,
+    "name": "13\" Apple MacBook Air 512gb SSD 8gb 2.7Ghz i5 TURBO - Monterey - 3 Year WARRANTY",
+    "price": 29900,
     "status": "Pre-Owned",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "New ListingApple MacBook Pro 14\" 2023 M2 Pro, 16 GB, 512 GB SSD, Space Gray  (Cracked LCD)",
-    "price": 69400,
-    "status": "Parts Only",
-    "shipping": 1284,
-    "free_returns": false,
+    "name": "Apple Macbook Pro 15\" Retina - i7 2.2GHZ 16GB 1TB SSD - OS Monterey + Warranty",
+    "price": 29500,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "2019 Apple Macbook Pro 13\" Touch Bar Space Gray 256GB *AS IS - FOR P/R ONLY*",
-    "price": 11250,
-    "status": "Parts Only",
-    "shipping": 1500,
-    "free_returns": false,
+    "name": "Apple MacBook 12\" - Core m3 | m5 | m7 - 8GB RAM - 256GB | 512GB SSD - Excellent",
+    "price": 21370,
+    "status": "Excellent - Refurbished",
+    "shipping": null,
+    "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Air 13 Core i5 8GB 256GB Silver 2017 - Used Very Good",
-    "price": 14499,
+    "name": "Apple MacBook Pro 15\" 16GB RAM 1TB SSD Quad Core i7 3.30Ghz WARRANTY",
+    "price": 34202,
     "status": "Pre-Owned",
     "shipping": null,
     "free_returns": true,
@@ -752,193 +592,25 @@
     "items_sold": null
   },
   {
-    "name": "New Listing2017 13\u201d Apple MacBook Pro w/ Russian and English keyboard",
-    "price": 15000,
+    "name": "Apple MacBook 12\" Retina (2015) - Core M - 8GB RAM - 256GB SSD - Space Gray - MJ",
+    "price": 15999,
     "status": "Pre-Owned",
-    "shipping": 2500,
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingApple MacBook 12 inch Laptop - MLHE2LL/A (2016, Gold)",
+    "price": 17495,
+    "status": "Pre-Owned",
+    "shipping": 1390,
     "free_returns": false,
     "items_sold": null
   },
   {
-    "name": "Apple Macbook Air 13\" Laptop | i5 4GB RAM + 128GB SSD | MacOS Big Sur | Warranty",
-    "price": 12825,
+    "name": "Apple MacBook Pro Core i5 2.3GHz, 13.3-inch, 8GB RAM, 256GB SSD, Space Gray",
+    "price": 24900,
     "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Macbook Pro 13 Inch Touch Bar 3.5GHz Turbo i5 A1706 Monterey FREE 1 Yr Warranty",
-    "price": 43900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "APPLE MACBOOK PRO 16 INCH - MAXED 64GB RAM - 8C 5.0GHz / NEWEST OS",
-    "price": 75000,
-    "status": "Very Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 15.4-Inch Intel Core i9, 32GB RAM, 1TB SSD, Space Grey",
-    "price": 45900,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 15.4-Inch Intel Core i9, 32GB RAM, 512GB SSD, Space Gray",
-    "price": 43900,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple\u00a013.3\" MacBook Air Core i5 1.6GHz 8GB RAM 256GB SSD MMGG2LL/A In Retail Box",
-    "price": 35995,
-    "status": "Open Box",
-    "shipping": 1331,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 16 M1 Max 10-Core 64GB 1TB Silver 2021 - Used Excellent",
-    "price": 139999,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 13.3\u201d 2.5GHz intel Core i5 8GB RAM 256GB SSD MacOS High Sierra",
-    "price": 23500,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Unibody 13.3\u201d 2.26GHz intel Core 2 Duo 8GB RAM 256GB SSD",
-    "price": 19900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 15 Core i7 16GB 256GB Gray 2019 - Used Good",
-    "price": 29399,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "2018 Apple MacBook Air A1932 1.6 GHz Core i5 13\" 8GB RAM 256GB SSD, Silver, Good",
-    "price": 25499,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 13\" Retina/ 2.4Ghz Core i5/8GB/256GB SSD. Os Big Sur Grade C",
-    "price": 13900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "2020 Apple M1 MacBook Air 13\" 8GB/128GB - (Space Gray) A2337 w/1 Year Warranty",
-    "price": 37999,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple Macbook Pro 15\" Laptop - Quad Core i7 + 16GB + 256GB to 1TB SSD - Monterey",
-    "price": 23900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "New ListingMacBook Pro 16\"  M1 Pro 16 - GPU / 32 GB Ram / 512 GB  / Very Good  / WARRANTY",
-    "price": 99500,
-    "status": "Very Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple Macbook Pro 13 inch A1989 Sequoia 16GB Quad Core i5 512GB SSD + Warranty",
-    "price": 49900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple Macbook Air 13\" 2015 | i5 8GB RAM 512GB SSD | Monterey + 2 Year Warranty",
-    "price": 14155,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro A2141 i7-9750H 32GB RAM 512GB SSD Radeon Pro 5300M - Silver",
-    "price": 42499,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro A1398  Laptop 15\" Intel I7 CPU 16GB RAM 512 SSD",
-    "price": 22999,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Air Core i5 1.6GHz 8GB RAM 256GB SSD 13\" MVFJ2LL/A (2019) - Good",
-    "price": 28997,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple Macbook Air 2013 A1465 11\" I5 1.3GHz 4GB 128GB SSD MD711LL/A Laptop",
-    "price": 7498,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "APPLE MACBOOK PRO A2141 2019 i9 2.4GHz 32GB 1TB Good Condition",
-    "price": 47499,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "New ListingMacBook Pro 15.4\" (2012) i7-3615QM 4GB 750GB (Very Good)",
-    "price": 16900,
-    "status": "Very Good - Refurbished",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
@@ -952,329 +624,9 @@
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Pro 16\" 2019 Scissor, Gray - Core i9 2.4GHz 32GB 512GB - Very Good",
-    "price": 48999,
-    "status": "Very Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro with Apple M1 Chip 13\", 8GB, 512GB - Space Gray",
-    "price": 52999,
-    "status": "Excellent - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 13\" 1TB SSD 16GB RAM i5 2.5Ghz Pre-Retina -Warranty",
-    "price": 24402,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "New ListingA1286  MacBook Pro 15\" 2011 i7 2.0GHz 16GBRAN-SSD 1TB macOSBig Surr OpenPatcher",
-    "price": 18000,
-    "status": "Pre-Owned",
-    "shipping": 886,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "2019/2020 MacBook Pro 13\" Quad 4.1GHz / 16GB MEMORY / Silver / LATEST MACOS",
-    "price": 47500,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "2015 MACBOOK AIR 11\" - 1.6GHz i5 - 8GB RAM - 128GB SSD - MONTEREY, C GRADE/USED",
-    "price": 13999,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 13 M1 8-Core 16GB 512GB Gray 2020 - Used Very Good",
-    "price": 56999,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 15 Inch - Quad Core i7 2.3GHZ 16GB RAM 1TB HD - Catalina DVD",
-    "price": 22705,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple Macbook Pro 13\" Retina Laptop - i5 2.4GHZ 8GB 128GB SSD - Big Sur Grade C",
-    "price": 15105,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Air 13\" M2 chip 16GB RAM 256GB SSD Midnight MC7X4LL/A 2022 Model",
-    "price": 69900,
-    "status": "Excellent - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "2020 Apple MacBook Air 13 1.1GHz Core i5 16GB 256GB SSD Gray MVH22LL/A, Good",
-    "price": 45000,
+    "name": "Apple MacBook Pro Retina 15'' (512GB SSD, Core i7-4770HQ, 2.2GHz, 16GB RAM)",
+    "price": 22999,
     "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple Macbook Pro 13.3\u201d 2.5Ghz i5 16GB 1TB HDD Monterrey MaCOS W/charger",
-    "price": 29900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "15\" Apple MacBook Pro - 3.8Ghz Turbo i7 16GB 256GB SSD Touch Bar - 1 Yr Warranty",
-    "price": 49900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Shop on eBay",
-    "price": 2000,
-    "status": "Brand New",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Shop on eBay",
-    "price": 2000,
-    "status": "Brand New",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook 12\" Space Gray  (2016) | m5 / 8GB / 512GB SSD | Retina | EXCELLENT",
-    "price": 28923,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 13.3'' intel Core i5 2.5GHz 16GB RAM 500GB SSD W/Cover  Turbo",
-    "price": 27500,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 13\" - Intel Core i7-6567U @3.30GHz 16GB RAM 512GB - See Desc..",
-    "price": 25000,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Air Core i7 2.2GHz 256GB SSD 13\" Z0UU1LL/A (2017) Used-Excellent",
-    "price": 18399,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro M3 Pro 14.2\" 11-CoreCPU 14-CoreGPU 2023 512GB SSD 18GB RAM",
-    "price": 117900,
-    "status": "Very Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Air 13\" M2 chip 16GB RAM 256GB SSD Midnight MC7X4LL/A 2022 Model",
-    "price": 69900,
-    "status": "Excellent - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "2018/2020 MacBook Air 13\" RETINA Display Intel Core i5 3.6GHz 256GB SSD 16GB RAM",
-    "price": 47900,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook 13\" Laptop READY TO USE w/ macOS 10.13 HIGH SIERRA !!!",
-    "price": 9999,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 2021 16in M1 Pro 10 CPU 16 GPU 16GB RAM 1TB SSD Very Good",
-    "price": 89959,
-    "status": "Very Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple 2020 MacBook Air M1 3.2GHz (7-Core GPU) 16GB RAM 256GB SSD - Open box",
-    "price": 59999,
-    "status": "Open Box",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "\u2705 Apple MacBook 12\" 2016-2017 Retina | m3/m5/m7/i5/i7 | 8-16GB | 256-512GB",
-    "price": 25900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 16\" 2023 M2 Max 1TB 2TB 4TB 8TB RAM 32GB 64GB 96GB - Very Good",
-    "price": 182599,
-    "status": "Very Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple Macbook Pro 13\" - i5 16GB RAM + 512GB SSD DVD - OS Monterey 12 - Warranty",
-    "price": 16900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook 12\" - Core m3 | m5 | m7 - 8GB RAM - 256GB | 512GB SSD - Very Good",
-    "price": 19945,
-    "status": "Very Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "MacBook Pro 16\" Intel Core i7-9750H @ 2.6GHz 16GB RAM 512GB SSD - See Desc..",
-    "price": 28900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Apple Macbook Pro 15\" Retina - i7 16GB RAM + 256GB to 512GB SSD - OS Big Sur",
-    "price": 22900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "16 inch MacBook Pro - 32GB Memory - 1TB SSD - Warranty - 8-Core i9 Processor",
-    "price": 74900,
-    "status": "Very Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "New ListingApple MacBook Pro 14.2'' 512GB SSD Apple M2 Pro Laptop MPHH3LL/A Silver",
-    "price": 100000,
-    "status": "Pre-Owned",
-    "shipping": 2489,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "2020 Apple M1 MacBook Air 13\" 8GB/128GB - (Space Gray) A2337 w/1 Year Warranty",
-    "price": 37999,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "New Listing2018 MacBook Pro 2.3Ghz  i5 8GB 250GB SSD Space Gray  \u201c\u201dMDM\u201d\u201d Touch Bar",
-    "price": 19900,
-    "status": "Parts Only",
-    "shipping": 2000,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "13\" Apple MacBook Air 2019 1.6GHz Intel Core i5 16GB RAM 256GB SSD Gray - Good",
-    "price": 29999,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Air 13\" / Dual Core i5/ 4GB/ 128GB SSD. MacOS BigSur",
-    "price": 12500,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 16'' 2019 Intel 8 Core i9 2.4GHz, 1TB SSD 64GB RAM, Silver",
-    "price": 71599,
-    "status": "Very Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "New ListingApple MacBook Air M1 13\" 8GB 256 SSD MGN63LL/A",
-    "price": 39999,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 2019 16\" Core i9 2.4GHz 64GB RAM 1TB SSD Pro 5600M 8GB, Great",
-    "price": 77599,
-    "status": "Very Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple Macbook M1 Pro 16\" 2021 10-core CPU 16-core GPU 512GB SSD 16GB Ram Gray",
-    "price": 92900,
-    "status": "Excellent - Refurbished",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
@@ -1288,6 +640,46 @@
     "items_sold": null
   },
   {
+    "name": "Apple MACBOOK PRO 15\" 16GB i7 3.4Ghz - RETINA 1TB SSD Monterey - 1 Year Warranty",
+    "price": 40850,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "LOADED!! Apple MacBook Pro Retina 15\" i7 + TouchBar + 2023 OS + 16 GB RAM + MORE",
+    "price": 69825,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "15\" Apple MacBook Pro - 3.8Ghz Turbo i7 16GB 256GB SSD Touch Bar - 1 Yr Warranty",
+    "price": 49900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "APPLE MACBOOK PRO A2141 BTO/CTO | CORE I7-9750H | 512GB | 16GB RAM | SEQUOIA",
+    "price": 40999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 15.4-Inch Intel Core i9, 32GB RAM, 1TB SSD, Space Grey",
+    "price": 45900,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
     "name": "Apple MacBook Pro 16\" 2019 Scissor, Gray - Core i9 2.4GHz 32GB 512GB - Very Good",
     "price": 48999,
     "status": "Very Good - Refurbished",
@@ -1296,416 +688,40 @@
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Pro 15\" 1TB SSD 16GB RAM i7 Retina - Big Sur - 1 Year Warranty",
-    "price": 39102,
-    "status": "Pre-Owned",
+    "name": "Apple MacBook Pro 2019 16\" Core i9 2.4GHz 64GB RAM 1TB SSD Pro 5600M 8GB, Great",
+    "price": 77599,
+    "status": "Very Good - Refurbished",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "Apple Macbook unibody 13\u201d 8GB RAM 500GB HDD core 2 duo 2009",
-    "price": 17500,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "New ListingApple MacBook 12\" | 2017 | i5 1.3GHz | 8GB | 512GB SSD | Retina | Battery \ud83d\udd0b",
-    "price": 32457,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro MWP42LL/A 13.3\" Retina i5, 16GB RAM, 512GB SSD, IrisPlus 2019",
-    "price": 37500,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "MacBook Air 13-inch 2024 M3 / 16GB RAM / 512GB SSD / 10-Core GPU / Starlight",
-    "price": 92900,
+    "name": "Apple 2024 MacBook Pro 14-inch M4 Pro 24GB RAM 512GB SSD Silver MX2E3LL/A",
+    "price": 161900,
     "status": "Open Box",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "New ListingMacBook Air m3 & 11+13 Inch iPad Pro M4",
-    "price": 75000,
-    "status": "Brand New",
-    "shipping": 1759,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 13 Inch 2.5ghz 8GB Ram 500gb A 1278 10.15 Catalina + Charger",
-    "price": 10500,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "New ListingA1286  MacBook Pro 15\" 2011 i7 2.0GHz 16GBRAN-SSD 1TB macOSBig Surr OpenPatcher",
-    "price": 18000,
-    "status": "Pre-Owned",
-    "shipping": 886,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "New ListingApple MacBook Air 13 Intel Core i5 1.8 GHz, 128 GB 8 GB Intel HD Graphics 6000",
-    "price": 12500,
-    "status": "Pre-Owned",
-    "shipping": 1390,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Unibody A1342 13.3\" 2GB RAM, 250GB HDD, Intel 2.4GHz Core 2 Duo",
-    "price": 4400,
-    "status": "Pre-Owned",
-    "shipping": 1934,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook 12\" Gold (2016) | m3 / 8GB / 256GB SSD | Retina | EXCELLENT",
-    "price": 27900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "MacBook Pro 15 Touch Bar Space Gray 2019 2.3GHz i9 16GB 512GB Radeon Pro 560X",
-    "price": 37499,
+    "name": "Apple MacBook Pro 13.3-Inch TOUCHBAR, i5/i7, 8GB-16GB, 256GB-1TB, Grey & Silver",
+    "price": 29900,
     "status": "Good - Refurbished",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Pro 15.4-Inch Intel Core i7, 32GB RAM, 1TB SSD, Space Grey",
-    "price": 41900,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "MacBook Pro 13 Touch Bar 2020 M1 8-Core / 8-Core GPU 16GB 256GB Space Gray Good",
-    "price": 50999,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "New Listing2020 MACBOOK PRO 13 inch Touch Bar i5 2.0GHz 512GB SSD 16GB RAM NOT WORKING",
-    "price": 13994,
-    "status": "Parts Only",
-    "shipping": 767,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Air 2018 13\" 1.6GHz Intel Core i5 8GB RAM 256GB SSD Gray",
-    "price": 17500,
-    "status": "Pre-Owned",
-    "shipping": 2130,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "2019/2020 MacBook Pro 13\" Quad 4.1GHz / 16GB MEMORY / Silver / LATEST MACOS",
-    "price": 47500,
+    "name": "Apple MacBook Pro 13\" A1278 2.5GHz Intel Core i5 8GB RAM 120GB SSD Mid 2012",
+    "price": 11900,
     "status": "Pre-Owned",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "MacBook Pro 13 Touch Bar Space Gray 2019 2.4 GHz Intel Core i5 16GB 256GB - Good",
-    "price": 28999,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 13\" 2020, Apple M1, 256GB SSD, 16GB RAM, 8C GPU, A2338, Great!",
-    "price": 49999,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple Macbook Core M3 1.2GHz 8GB RAM 256GB SSD 12\" MNYF2LL/A (2017), Gray, Good",
-    "price": 21999,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "New Listing(NEW WITH SEAL) MacBook Pro 16\" M2 16GB 512GB Space Gray",
-    "price": 209900,
-    "status": "Brand New",
-    "shipping": 1835,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "New ListingApple MacBook Air A1466 13\"  1.8ghz  dual-corei5 8gb ram 512 ssd free shipping",
-    "price": 21999,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "SEALED 13\" Apple MacBook Air M1 Chip 8GB RAM 128GB SSD 2020 BRAND NEW!",
-    "price": 58900,
-    "status": "Brand New",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 15\" 2019 Gray - i7 2.6GHz 32GB RAM 512GB SSD - Very Good",
-    "price": 41999,
-    "status": "Very Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "2015 MACBOOK AIR 11\" - 1.6GHz i5 - 8GB RAM - 128GB SSD - MONTEREY, C GRADE/USED",
-    "price": 13999,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Air 15-inch 2024 M3 / 8GB RAM / 256GB SSD / 10-Core GPU / Midnight",
-    "price": 85900,
-    "status": "Open Box",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple 2021 MacBook Pro 14\" M1 Pro (14-Core GPU) 16GB RAM 1TB SSD - Very good",
-    "price": 94999,
-    "status": "Very Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "2022 Apple MacBook Pro Laptop with M2 chip: 13-inch Retina Display, 8GB RAM,",
-    "price": 113995,
-    "status": "Brand New",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "New ListingMacBook Air A1466, 1.8 GHz Core i5, 8 GB Ram, 128 GB SSD, MQD32LL/A (2017)",
-    "price": 13900,
-    "status": "Pre-Owned",
-    "shipping": 1000,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "EXCELLENT Apple MacBook Pro 13 RETINA INTEL CORE i5 TURBO 8GB RAM 256GB SSD",
-    "price": 29302,
-    "status": "Very Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "MacBook Pro 13 2020 Touch Bar 2.3 GHz i7 16GB 512GB Space Gray - Good Condition",
-    "price": 40999,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Core Intel M3 8GB RAM 256GB SSD 12\" MNYK2LL/A - Space Gray - See D",
-    "price": 20100,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Shop on eBay",
-    "price": 2000,
-    "status": "Brand New",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Shop on eBay",
-    "price": 2000,
-    "status": "Brand New",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "MacBook Pro 13 2020 Touch Bar 2.3 GHz i7 16GB 512GB Space Gray - Good Condition",
-    "price": 40999,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Core Intel M3 8GB RAM 256GB SSD 12\" MNYK2LL/A - Space Gray - See D",
-    "price": 20100,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Apple Macbook Pro M1 Max 16\" 2021 10-Core CPU 32 GPU 1TB SSD 32GB Ram Gray",
-    "price": 138999,
-    "status": "Very Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Air M1 2020 13\" A2337 Laptop M1 8-Core 3.20GHz 16GB RAM 512GB SSD",
-    "price": 40000,
-    "status": "Pre-Owned",
-    "shipping": 3300,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "New Listing2017 13\u201d Apple MacBook Pro w/ Russian and English keyboard",
-    "price": 15000,
-    "status": "Pre-Owned",
-    "shipping": 2500,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "New Listing2023 Apple MacBook Pro Laptop 16-inch M2 Max \u2013 96GB RAM 4TB SSD 38-Core GPU",
-    "price": 399900,
-    "status": "Pre-Owned",
-    "shipping": 4294,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Apple 2020 MacBook Air M1 3.2GHz (7-Core GPU) 16GB RAM 256GB SSD - Open box",
-    "price": 59999,
-    "status": "Open Box",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "New ListingApple MacBook Air 13.3\"(128GB SSD, Intel Core i5 8th Gen, 1.6GHz, 8GB RAM)...",
-    "price": 25900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "15\" MacBook Pro 2019 Silver 2.3 i9 32GB 512GB SSD 560X Sequoia + Good + Warranty",
-    "price": 43900,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple Macbook Air 11\" Laptop | i5 4GB RAM + 128GB SSD | MacOS Big Sur | Light Up",
-    "price": 12825,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple Macbook M1 Pro 16\" 2021 10-core CPU 16-core GPU 512GB SSD 16GB Ram Gray",
-    "price": 92900,
-    "status": "Excellent - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 15.4-inch, Touch Bar, Core i7, 16GB RAM, 256GB SSD, Space Gray",
-    "price": 34900,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Air A1466 13.3\" Intel I5 CPU 8GB RAM 250 SSD",
-    "price": 18999,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple Macbook Pro M1 14\" 8-core CPU 14-core GPU 2021 512GB SSD 16GB Ram Silver",
-    "price": 87999,
-    "status": "Excellent - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro A2251 13.3\" Intel Core i5-1038NG7 2.0Ghz 32GB RAM 512GB SSD",
-    "price": 39999,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "EXCELLENT Apple MacBook Air 13 PRE-RETINA INTEL CORE i7 8GB RAM 512GB SSD",
-    "price": 33908,
-    "status": "Very Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro Core i5 2.3GHz, 13.3-inch, 8GB RAM, 256GB SSD, Space Gray",
-    "price": 24900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Air 15\" Apple M3 chip 16GB RAM 256GB SSD Midnight MC9G4LL/A 2024",
-    "price": 89900,
+    "name": "MacBook Air 15-inch 2024 M3 / 16GB RAM / 512GB SSD / 10-Core GPU / Midnight",
+    "price": 109900,
     "status": "Open Box",
     "shipping": null,
     "free_returns": true,
@@ -1720,24 +736,8 @@
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Air A1466 7,2 13.3\" 1.80GHz 8GB 128GB SSD OS 12 1 Yr Wty Very Good",
+    "name": "Apple MacBook Pro 13\" Retina/ 2.4Ghz Core i5/8GB/256GB SSD. Os Big Sur Grade C",
     "price": 13900,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "New ListingMacBook Pro 15.4\" (2012) i7-3615QM 4GB 750GB (Very Good)",
-    "price": 16900,
-    "status": "Very Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple Macbook Pro 13\" - i5 2.4GHZ 8GB 512GB - OS Big Sur - Warranty Very Good",
-    "price": 16000,
     "status": "Pre-Owned",
     "shipping": null,
     "free_returns": true,
@@ -1752,8 +752,224 @@
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Pro 15 Inch - Quad Core i7 2.3GHZ 16GB RAM 1TB HD - Catalina DVD",
-    "price": 22705,
+    "name": "Apple 2021 MacBook Pro 14\" M1 Pro (14-Core GPU) 32GB RAM 512GB SSD Very good",
+    "price": 99999,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 2017 Intel Core i5, 8GB RAM 128GB SSD, Silver, MPXR2LL/A, Good",
+    "price": 20599,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "EXCELLENT Apple MacBook Air 13 PRE-RETINA INTEL CORE i7 8GB RAM 512GB SSD",
+    "price": 33908,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Unibody 13.3\u201d 2.26GHz intel Core 2 Duo 8GB RAM 256GB SSD",
+    "price": 19900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "MAXED!! Apple MacBook Air Retina 13\" + LOADED!! + 2023 OS + EXTRAS! + 256 GB SSD",
+    "price": 64125,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook Pro 13\" - i5 16GB RAM + 512GB SSD DVD - OS Monterey 12 - Warranty",
+    "price": 16900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 15\" 16GB i7 3.7Ghz - Retina 1TB SSD Monterey - 3 Year Warranty",
+    "price": 49900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Air 13\u201d 1.6GHz Core i5 4gb RAM 128GB SSD MacOS Monterey",
+    "price": 10000,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple 2020 MacBook Air M1 3.2GHz (7-Core GPU) 16GB RAM 256GB SSD - Very good",
+    "price": 54999,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "MacBook Pro 13 Touch Bar 2020 M1 8-Core / 8-Core GPU 16GB 256GB Space Gray Good",
+    "price": 50999,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "MAXED!! Apple MacBook Pro 15\" Retina i7 Laptop + TouchBar + 2024 OS + EXTRAS!",
+    "price": 79800,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 16\" Apple M4 Pro chip 24GB RAM 512GB SSD Space Black MX2X3LL/A",
+    "price": 189999,
+    "status": "Open Box",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro MWP42LL/A 13.3\" Retina i5, 16GB RAM, 512GB SSD, IrisPlus 2019",
+    "price": 37500,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook unibody 13\u201d 8GB RAM 500GB HDD core 2 duo 2009",
+    "price": 17500,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 16'' 2019 Intel 8 Core i9 2.4GHz, 1TB SSD 64GB RAM, Silver",
+    "price": 71599,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingExcellent Apple 15 inch Macbook Pro  Laptop , i7 16GB RAM, 500 SSD WOW!!!",
+    "price": 23500,
+    "status": "Pre-Owned",
+    "shipping": 1500,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 13\", 4 Thunderbolt 3 - i7 - 2.3GHz 32GB 500GB 1Y warrnaty E135",
+    "price": 47500,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Air 15\" M3 chip 8GB Ram 256GB SSD Midnight MRYU3LL/A 2024 Model",
+    "price": 84900,
+    "status": "Open Box",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook Pro 13\" 2019 Silver i5 8GB 128GB SSD MacOS A2159 MUHN2LL/A - LC",
+    "price": 28999,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 13\" 2020, Apple M1, 256GB SSD, 16GB RAM, 8C GPU, A2338, Great!",
+    "price": 49999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Air Core i5 1.6GHz 8GB RAM 256GB SSD 13\" MVFJ2LL/A (2019) - Good",
+    "price": 28997,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New Listing2020 Apple MacBook Air 13.3\" M1  8GB RAM 256GB SSD A2337",
+    "price": 37500,
+    "status": "Pre-Owned",
+    "shipping": 1138,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "2020 Apple MacBook Air 13 1.1GHz Core i5 16GB 256GB SSD Gray MVH22LL/A, Good",
+    "price": 45000,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook Pro 13\" - i5 2.4GHZ 8GB 512GB - OS Big Sur - Warranty Very Good",
+    "price": 16000,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingMAC Book Pro 13 Inch",
+    "price": 80000,
+    "status": "Pre-Owned",
+    "shipping": 1390,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 15.4-Inch Intel Core i9, 32GB RAM, 512GB SSD, Space Gray",
+    "price": 43900,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "2015 MACBOOK AIR 11\" - 1.6GHz i5 - 8GB RAM - 128GB SSD - MONTEREY, C GRADE/USED",
+    "price": 13999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook Pro 15\" Laptop - Quad Core i7 2.2GHz 16GB RAM 1TB SSD - Warranty",
+    "price": 28900,
     "status": "Pre-Owned",
     "shipping": null,
     "free_returns": true,
@@ -1768,87 +984,47 @@
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Pro 15\" Retina 2.2GHz Intel Core i7 16GB RAM 256GB SSD 2014, Good",
-    "price": 21999,
+    "name": "Apple MacBook Air 15\" Apple M3 chip 16GB RAM 256GB SSD Midnight MC9G4LL/A 2024",
+    "price": 89900,
+    "status": "Open Box",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Air 13\" M2 chip 16GB RAM 256GB SSD Midnight MC7X4LL/A 2022 Model",
+    "price": 69900,
+    "status": "Excellent - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook Pro 2019 Touchbar 16\" A2141 i9 2.4GHz 64GB RAM 1TB SSD MVVM2LL/A",
+    "price": 66999,
     "status": "Good - Refurbished",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "2018 Apple MacBook Air A1932 1.6 GHz Core i5 13\" 8GB RAM 256GB SSD, Silver, Good",
-    "price": 25499,
-    "status": "Good - Refurbished",
+    "name": "Apple Macbook Pro M1 14\" 8-core CPU 14-core GPU 2021 512GB SSD 16GB Ram Gray",
+    "price": 87999,
+    "status": "Excellent - Refurbished",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "SEALED 13\" Apple MacBook Air M1 Chip 8GB RAM 128GB SSD 2020 BRAND NEW!",
-    "price": 58900,
-    "status": "Brand New",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Unibody 13.3\u201d 2.26GHz intel Core 2 Duo 8GB RAM 256GB SSD",
-    "price": 19900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Air A2179 13.3\" i5-1030NG7 8GB RAM 512GB SSD Mac Laptop",
-    "price": 28000,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "13\" Apple MacBook Air Turbo 3.6Ghz SONOMA i5 8GB 256GB SSD A1932 w/ Warranty",
-    "price": 37500,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 13\" 1TB SSD 16GB RAM i5 2.5Ghz Pre-Retina -Warranty",
-    "price": 24402,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple Macbook Pro 13\" Retina Laptop - i5 2.4GHZ 8GB 128GB SSD - Big Sur Grade C",
-    "price": 15105,
-    "status": "Pre-Owned",
-    "shipping": null,
+    "name": "Apple\u00a013.3\" MacBook Air Core i5 1.6GHz 8GB RAM 256GB SSD MMGG2LL/A In Retail Box",
+    "price": 35995,
+    "status": "Open Box",
+    "shipping": 1331,
     "free_returns": false,
     "items_sold": null
   },
   {
-    "name": "Apple 2020 MacBook Pro 13\" M1 3.2GHz (8-Core GPU) 8GB RAM 512GB SSD - Fair",
-    "price": 49999,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Air 11\" A1465 2015  Core i5 1.6GHz/256GB SSD/8GB/macOS Monterey",
-    "price": 11500,
-    "status": "Pre-Owned",
-    "shipping": 2201,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "MAXED!! Apple MacBook Pro Retina 13\" + LOADED! + TouchBar + 2023 OS + EXTRAS!",
+    "name": "MAXED!! Apple MacBook Air Retina 13\" + LOADED!! + 2023 OS + EXTRAS! + 256 GB SSD",
     "price": 64125,
     "status": "Pre-Owned",
     "shipping": null,
@@ -1856,343 +1032,23 @@
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Pro A1990 15.4'' 2018 Core i7 2.2GHz 16GB RAM 256GB SSD,Gray, Good",
-    "price": 32499,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "MacBook Air 13 Gold 2019 1.6 GHz Intel Core i5 8GB 256GB SSD Good Condition",
-    "price": 27999,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "MacBook White Unibody 13.3\u201d 2.6GHz core 2 Duo 8GB RAM 256GB SSD",
-    "price": 19900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "SEQUOIA Apple MacBook Pro 13 Touch Quad 3.8GHz Turbo Intel i5 16GB RAM 512GB SSD",
-    "price": 39102,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "New ListingApple MacBook Air 13 Intel Core i5 1.8 GHz, 128 GB 8 GB Intel HD Graphics 6000",
-    "price": 12500,
-    "status": "Pre-Owned",
-    "shipping": 1390,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "2020 Apple Macbook Air 13.3-Inch i3-i7, 8GB-16GB, 128GB-2TB, All Colors",
-    "price": 34900,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 15\" Touch Bar 256GB SSD 16GB i7 Ventura Space Gray - Warranty",
-    "price": 49900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "New ListingApple MacBook Air 13\" | 2019 1.6 i5 8GB 256GB SSD Space Gray - Great Quality -",
-    "price": 20000,
-    "status": "Pre-Owned",
-    "shipping": 1645,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "2017  Apple MacBook Air 13 inch / Dual Core i5/ 8GB / 128GB SSD. MacOS Monterey",
-    "price": 15900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple Macbook Core M3 1.2GHz 8GB RAM 256GB SSD 12\" MNYF2LL/A (2017), Gray, Good",
-    "price": 21999,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 16 Core i9 64GB 512GB Gray 2019 - Used Very Good",
-    "price": 53999,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "New ListingApple MacBook Pro 13\u201d 2019 - 500GB SSD | 16GB RAM | Intel i5 2.4GHz",
-    "price": 27900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro A2141 i7-9750H 32GB 512GB SSD Mac OS Sonoma (2019)",
-    "price": 34999,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 15.4-Inch Intel Core i9, 32GB RAM, 2TB SSD, Space Gray",
-    "price": 59900,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "APPLE MACBOOK PRO A1278 4GB/8GB RAM 250GB SATA SSD HIGH SIERRA W/CHARGER *READ",
-    "price": 4999,
-    "status": "Pre-Owned",
-    "shipping": 1499,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Air A1466 2012 13\" 1.8GHz i5 8GB RAM 120GB SSD macOS 10.15.7",
-    "price": 8500,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 13\" A1708 2.3GHz Core i5 8GB RAM 250GB SSD 2017 Ventura",
-    "price": 23900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 15\" 2019 Gray - i7 2.6GHz 32GB RAM 512GB SSD - Very Good",
-    "price": 41999,
+    "name": "MacBook Pro 14 2021 M1 Pro A2442 8-Core CPU / 14-Core GPU 16GB 512GB Space Gray",
+    "price": 82799,
     "status": "Very Good - Refurbished",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Pro 15\" 16GB RAM 1TB SSD Quad Core i7 3.30Ghz WARRANTY",
-    "price": 34202,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 16 2021 M1 Pro 3.2 GHz 10-Core CPU 16-Core GPU 32GB 512GB Gray",
-    "price": 98499,
+    "name": "MacBook Pro 13 Touch Bar Space Gray 2018 2.7 GHz i7 16GB 512GB Good Condition",
+    "price": 31999,
     "status": "Good - Refurbished",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Pro A2141 i7-9750H 32GB RAM 512GB SSD Radeon Pro 5300M - Silver",
-    "price": 42499,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Deal! MacBook Air 13-inch 2017 8GB/256 SSD/Core i5 macOS Monterey 12 + WARRANTY",
-    "price": 16900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "2020 Apple MacBook Air 13\" i3 1.1GHz/8GB/128GB SSD (Space Gray) A2179",
-    "price": 27999,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 2015 Retina 13\u201d 2.7GHz i5 8GB RAM 256GB SSD Red Skin",
-    "price": 24900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Shop on eBay",
-    "price": 2000,
-    "status": "Brand New",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Shop on eBay",
-    "price": 2000,
-    "status": "Brand New",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Apple 2019 MacBook Air 13\" 1.6GHz Dual-Core i5 16GB RAM 128GB SSD - Fair",
-    "price": 28999,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "2020 Apple MacBook Air M1 13in 8GB RAM 128GB MGN73LL/A 8 CPU 7GPU 88% BAT READ",
-    "price": 27900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "2020 Apple MacBook Air M1 13in 8GB RAM 128GB MGN73LL/A 8 CPU 7GPU 96% BAT READ",
-    "price": 27900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "MONTEREY Apple MacBook Pro 15\" TOUCH BAR 3.6GHz Quad i7 Turbo 16GB RAM 256GB SSD",
-    "price": 34423,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple Macbook Core M3 1.2GHz 8GB RAM 256GB SSD 12\" MNYF2LL/A (2017), Gray, Good",
-    "price": 21999,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "New ListingGREAT APPLE MACBOOK AIR LAPTOP 2013 13\" A1466 - 8GB RAM - 128GB SSD i5 1.3Ghz",
-    "price": 6500,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 15\" Retina / Quad Core i7 /16GB/256GB SSD HD. Big Sur. Grade C",
-    "price": 17900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "EXCELLENT Apple 16\" MacBook Pro 2019/2020 16GB 512GB SSD 2.6 6-Core i7 OSX 2023",
-    "price": 59900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "2019/2020 MacBook Pro 13\" Quad 4.1GHz / 16GB MEMORY / Silver / LATEST MACOS",
-    "price": 47500,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "APPLE MACBOOK PRO A1278 4GB/8GB RAM 250GB SATA SSD HIGH SIERRA W/CHARGER *READ",
-    "price": 4999,
-    "status": "Pre-Owned",
-    "shipping": 1499,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro A1990 15.4'' 2018 Core i7 2.2GHz 16GB RAM 256GB SSD,Gray, Good",
-    "price": 32499,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "APPLE MACBOOK PRO 15 RETINA LAPTOP | QUAD CORE i7 | 16GB + 256GB SSD | WARRANTY",
-    "price": 22900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 2019 A2141 16in Intel Core I7-9750H 16GB RAM 512GB SSD",
-    "price": 39999,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "ULTIMATE!! Apple MacBook Pro Retina 15\" Laptop i7 TouchBar + 2024 OS + EXTRAS!!",
-    "price": 69825,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Air A1932 Intel Core i5-8210Y @ 1.6GHz 8GB RAM 128GB SSD",
-    "price": 24900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "13.3\" MacBook Air M1 500GB SSD 8GB RAM Rose Gold 2020 MGN63LL/Grade B Condition",
-    "price": 43500,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Apple Macbook Air M2 2022 13\" 8-Core CPU 8-Core GPU 256GB SSD 8GB Ram Gray",
+    "name": "Apple Macbook Air M2 2022 13\" 8-Core CPU 8-Core GPU 256GB 8GB Ram Starlight",
     "price": 64999,
     "status": "Excellent - Refurbished",
     "shipping": null,
@@ -2200,47 +1056,63 @@
     "items_sold": null
   },
   {
-    "name": "MacBook Pro 13 2020 Touch Bar 2.3 GHz i7 16GB 512GB Space Gray - Good Condition",
-    "price": 40999,
-    "status": "Good - Refurbished",
+    "name": "Apple MacBook Air 13\u201d 1.6GHz Core i5 4gb RAM 128GB SSD MacOS Monterey",
+    "price": 10000,
+    "status": "Pre-Owned",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "Apple Macbook Pro 16'' Retina Core i9 2.4GHz 64GB RAM 1TB SSD A2141 Silver 2019",
-    "price": 70900,
+    "name": "Apple MacBook Air 13\" M2 chip 16GB RAM 256GB SSD Midnight MC7X4LL/A 2022 Model",
+    "price": 69900,
+    "status": "Excellent - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro M3 Pro 14.2\" 11-CoreCPU 14-CoreGPU 2023 512GB SSD 18GB RAM",
+    "price": 117900,
     "status": "Very Good - Refurbished",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "2018/2020 MacBook Air 13\" RETINA Display Intel Core i5 3.6GHz 256GB SSD 16GB RAM",
-    "price": 47900,
+    "name": "Apple MacBook Pro 2021 16in M1 Pro 10 CPU 16 GPU 16GB RAM 1TB SSD Very Good",
+    "price": 89959,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "2020 Apple MacBook Air 13 1.1GHz Core i5 16GB 256GB SSD Gray MVH22LL/A, Good",
+    "price": 45000,
     "status": "Good - Refurbished",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Pro 2021 A2485 16in M1 Pro 10 CPU 16 GPU 16GB RAM 1TB SSD Good",
-    "price": 85460,
+    "name": "2017 Apple MacBook Air 13 inch / Dual Core i5/ 8GB / 256GB SSD. OS Monterey",
+    "price": 18900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro A1502 i5-4258U 8GB 128GB SSD Mojave",
+    "price": 12999,
     "status": "Good - Refurbished",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "Apple 2020 MacBook Air M1 3.2GHz (7-Core GPU) 16GB RAM 256GB SSD - Open box",
-    "price": 59999,
-    "status": "Open Box",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "New ListingApple MacBook Air 2020 13 Inch 3.2 GHz M1 8-Core 512GB RAM 16GB 8-Core GPU READ",
+    "name": "Apple MACBOOK PRO 15\" 16GB i7 3.4Ghz - RETINA 1TB SSD Monterey - Warranty",
     "price": 49900,
     "status": "Pre-Owned",
     "shipping": null,
@@ -2248,248 +1120,40 @@
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Pro 13in (256GB SSD, M1, 8GB) Laptop - Silver - MYDA2LL/A...",
-    "price": 30000,
-    "status": "Pre-Owned",
-    "shipping": 3500,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "2015 MACBOOK AIR 11\" - 1.6GHz i5 - 8GB RAM - 128GB SSD - MONTEREY, C GRADE/USED",
-    "price": 13999,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "2020 Apple MacBook Pro with Intel Processor (13-inch, 16GB RAM, 1TB SSD Storage)",
-    "price": 37000,
-    "status": "Pre-Owned",
-    "shipping": 1722,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "MacBook Pro 13 Retina  2.7 GHz Intel Core i5 8GB 128GB SSD - Very Good",
-    "price": 20000,
-    "status": "Very Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple Macbook Pro 13\" - i5 16GB RAM + 512GB SSD DVD - OS Monterey 12 - Warranty",
-    "price": 16900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Macbook Pro 13.2\u201d 2.5GHz intel core i5 2012 16GB RAM 1TB HDD Macos Big Sur 2021",
-    "price": 29900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Air A1466 Intel Core i5-5250U @ 1.6GHz 8GB RAM 256GB SSD",
-    "price": 12650,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 13\" | 2017 3.1 i5 8GB 256GB SSD Touch Bar - Silver - Very Good",
-    "price": 29900,
-    "status": "Very Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 13\u201d 2015 - Intel Core i5 8GB RAM 128GB SSD macOS",
-    "price": 10825,
-    "status": "Pre-Owned",
-    "shipping": 1967,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Apple 2020 MacBook Pro 13\" M1 3.2GHz (8-Core GPU) 8GB RAM 512GB SSD - Fair",
-    "price": 49999,
+    "name": "MacBook Pro 16\" Gray 2021 3.2 GHz M1 Pro 10-Core CPU 16-Core GPU 16GB 512GB",
+    "price": 81987,
     "status": "Good - Refurbished",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "APPLE MACBOOK PRO 2021 A2485 16\" M1 PRO 32GB 1TB--GRADE D",
-    "price": 94999,
+    "name": "Apple MacBook Pro MWP42LL/A 13.3\" Retina i5, 16GB RAM, 512GB SSD, IrisPlus 2019",
+    "price": 37500,
     "status": "Pre-Owned",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "Apple MacBook Pro 16\" 2019 A2141 i7-9750H 2.60GHz 16 GB RAM 500 GB SSD Ventura",
-    "price": 29900,
-    "status": "Pre-Owned",
-    "shipping": 1900,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 15\" i7 Retina 1TB SSD 16GB 3.7Ghz Monterey -  Warranty",
-    "price": 43904,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro - i7-4770HQ - 16GB & 256GB SSD - Big Sur - A1398 - Discounted!",
-    "price": 19999,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 16 M1 Max 10-Core 64GB 1TB Silver 2021 - Used Good",
-    "price": 129999,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "MacBook Pro 13.3\u201d 2.5GGz i5 2012 16GB RAM 512GB SSD macOS Ventura",
-    "price": 27500,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "2015 Apple MacBook Air  13 inch / Dual Core i5/ 8GB / 256GB SSD- OS Monterey",
-    "price": 14900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Pro 15.4-inch, Touch Bar, Core i7, 16GB RAM, 256GB SSD, Space Gray",
-    "price": 34900,
-    "status": "Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "MacBook X Kuu Laptop (Buy One Get One Free) Chargers Included.",
-    "price": 11000,
-    "status": "Pre-Owned",
-    "shipping": 1759,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "2017 Apple MacBook Air 13\" i5 1.8GHz 8GB RAM 512GB SSD -WARRANTY",
-    "price": 38808,
-    "status": "Open Box",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Air M3 15.3\" 8-CoreCPU 10-CoreGPU 2024 512GB SSD 8GB RAM Excellent",
-    "price": 89900,
+    "name": "Apple Macbook Pro M1 Max 16\" 2021 10-Core CPU 32 GPU 1TB SSD 32GB Ram Gray",
+    "price": 138999,
     "status": "Excellent - Refurbished",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "New ListingMacBook Air 13.3\" (2012) Core i5-3427U 1.8GHz 8GB 128GB Silver (Very Good)",
-    "price": 15900,
-    "status": "Very Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple Macbook Pro 13\" 2019 Silver i5 8GB 128GB SSD MacOS A2159 MUHN2LL/A - LC",
-    "price": 28999,
-    "status": "Very Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "Apple MacBook Air 13.3\" Intel Core i3 1.10 GHz 8GB 128GB SSD (2020) MWTK2LL/A",
-    "price": 34799,
-    "status": "Very Good - Refurbished",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "2015 Apple Macbook Air 13\" Core i5 1.6 ghz 128GB SSD 8gb RAM OS Monterey bundle",
-    "price": 12900,
+    "name": "Apple Macbook unibody 13\u201d 8GB RAM 500GB HDD core 2 duo 2009",
+    "price": 17500,
     "status": "Pre-Owned",
     "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "New ListingApple MacBook Pro 13\u201d (2015) \u2013 i5 / 16GB RAM / 128GB SSD \u2013 macOS Monterey",
-    "price": 20000,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "New ListingMacBook Pro (13-inch, 2016) Intel Core i5 512GB SSD 8GB RAM A1706, Touch Bar",
-    "price": 25000,
-    "status": "Pre-Owned",
-    "shipping": 1839,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "New Listing2020 Apple MacBook AIR 13.3\" A2179 i3-10th.Gen. Great Condition!",
-    "price": 29900,
-    "status": "Pre-Owned",
-    "shipping": null,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "MacBook Pro 13 2020 Touch Bar 2.0 GHz Intel i5 16GB 512GB Space Gray",
-    "price": 41999,
-    "status": "Very Good - Refurbished",
-    "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "Apple 2024 MacBook Pro 16-inch M4 Pro 24GB RAM 512GB SSD Space Black MX2X3LL/A",
-    "price": 189900,
-    "status": "Open Box",
-    "shipping": null,
-    "free_returns": true,
-    "items_sold": null
-  },
-  {
-    "name": "15\" Apple MacBook Pro 2.9GHz Intel Core i9 32GB RAM 512GB SSD 555X 2018 - Good!",
-    "price": 43499,
+    "name": "Apple MacBook Pro 13.3-Inch Intel Core i7 3.1GHz, 16GB Ram, 1TB SSD - Warranty",
+    "price": 26900,
     "status": "Good - Refurbished",
     "shipping": null,
     "free_returns": true,
@@ -2504,35 +1168,915 @@
     "items_sold": null
   },
   {
-    "name": "New ListingApple MacBook 12\" | 2017 | i5 1.3GHz | 8GB | 512GB SSD | Retina | Battery \ud83d\udd0b",
-    "price": 32457,
-    "status": "Pre-Owned",
+    "name": "Apple MacBook Pro 16\" 2023 M2 Max 1TB 2TB 4TB 8TB RAM 32GB 64GB 96GB - Very Good",
+    "price": 182599,
+    "status": "Very Good - Refurbished",
     "shipping": null,
-    "free_returns": false,
+    "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "New ListingMac Book Pro",
-    "price": 140000,
-    "status": "Brand New",
-    "shipping": 1322,
-    "free_returns": false,
-    "items_sold": null
-  },
-  {
-    "name": "MacBook Air 15-inch 2024 M3 / 16GB RAM / 512GB SSD / 10-Core GPU / Midnight",
-    "price": 109900,
+    "name": "Apple MacBook Air 13\" M3 chip 16GB RAM 256GB SSD Silver MC8H4LL/A 2024 Model",
+    "price": 79900,
     "status": "Open Box",
     "shipping": null,
     "free_returns": true,
     "items_sold": null
   },
   {
-    "name": "New ListingApple MacBook Air A1466 13\"  1.8ghz  dual-corei5 8gb ram 512 ssd free shipping",
-    "price": 21999,
+    "name": "Apple MacBook Pro 2019 16\" Core i9 2.4GHz 64GB RAM 1TB SSD Pro 5600M 8GB, Great",
+    "price": 77599,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook Pro 15\" Retina - Quad Core i7 + 16GB RAM + 512GB SSD - OS Catalina",
+    "price": 17955,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro Core i9 2.4GHz 32GB RAM 512GB SSD 16\" MVVK2LL/A - Very Good",
+    "price": 57299,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingAPPLE MACBOOK PRO A1286 2.53 GHz i5 8GB RAM 1tb SSD",
+    "price": 42500,
     "status": "Pre-Owned",
     "shipping": null,
     "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "MacBook Pro 16 inch 2021 | M1 Pro 10 CPU | 16 GPU | 32GB RAM 512GB SSD Gray | \uf8ff",
+    "price": 93900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "APPLE MACBOOK PRO 15 RETINA LAPTOP | QUAD CORE i7 | 16GB + 256GB SSD | WARRANTY",
+    "price": 22900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "13\" Apple MacBook Air 2019 1.6GHz Intel Core i5 16GB RAM 256GB SSD Gray - Good",
+    "price": 29999,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "2017  Apple MacBook Air 13 inch / Dual Core i5/ 8GB / 128GB SSD. MacOS Monterey",
+    "price": 15900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple 14.2 MacBook Pro M2 Max 32GB RAM 1TB SSD 2023 Space Gray MPHG3LL/A Good",
+    "price": 164995,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple\u00a013.3\" MacBook Air Core i5 1.6GHz 8GB RAM 256GB SSD MMGG2LL/A In Retail Box",
+    "price": 35995,
+    "status": "Open Box",
+    "shipping": 1331,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 15\" 1TB SSD 16GB RAM i7 Retina - Big Sur - 1 Year Warranty",
+    "price": 39102,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "13\" Apple MacBook Air Turbo 3.6Ghz SONOMA i5 8GB 256GB SSD A1932 w/ Warranty",
+    "price": 37500,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New Listing2020 Apple MacBook Air 13.3\" M1  8GB RAM 256GB SSD A2337",
+    "price": 37500,
+    "status": "Pre-Owned",
+    "shipping": 1138,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook Pro 13\" 2019 Silver i5 8GB 128GB SSD MacOS A2159 MUHN2LL/A - LC",
+    "price": 28999,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 2021 16in M1 Pro 10 CPU 16 GPU 16GB RAM 512GB SSD Excellent",
+    "price": 87988,
+    "status": "Excellent - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 15\" i7 Retina 1TB SSD 16GB 3.7Ghz Monterey -  Warranty",
+    "price": 43904,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook Air 11\" Laptop | i5 4GB RAM + 128GB SSD | MacOS Big Sur | Light Up",
+    "price": 12825,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple 2020 MacBook Air M1 3.2GHz (7-Core GPU) 16GB RAM 256GB SSD - Open box",
+    "price": 59999,
+    "status": "Open Box",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "15\" Apple MacBook Pro - 3.8Ghz Turbo i7 16GB 512GB SSD Touch Bar - 1 Yr Warranty",
+    "price": 51900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 14 2023 M3 Pro 11-Core 14-Core GPU 18GB 512GB Space Black",
+    "price": 119999,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 15\" 16GB i7 3.7Ghz | Retina SSD 3 Year Warranty",
+    "price": 31825,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 15.4-Inch i7 2.8GHz, 16GB Ram, 1TB SSD - 90 Day Warranty",
+    "price": 29900,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "2019 Apple MacBook Pro 16\" i7 2.6GHz/16GB/512GB - (Silver) A2141 w/Warranty",
+    "price": 38999,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 2021 A2485 16in M1 Pro 10 CPU 16 GPU 16GB RAM 1TB SSD Good",
+    "price": 85460,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 15\" 16GB RAM 1TB SSD Quad Core i7 3.30Ghz WARRANTY",
+    "price": 34202,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "SEALED 13\" Apple MacBook Air M1 Chip 8GB RAM 128GB SSD 2020 BRAND NEW!",
+    "price": 58900,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "2017 Apple Macbook 12\" - 1.2ghz Core M3 - Choose Specs - Good Cond",
+    "price": 17495,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "13\" Apple MACBOOK PRO Silver | USBC | 3.1GHz | 256GB | WARRANTY",
+    "price": 29900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook Pro 15\" Laptop - Quad Core i7 + 16GB + 256GB to 1TB SSD - Monterey",
+    "price": 23900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 15\" Laptop Retina / 256GB SSD / Quad Core i7 Turbo Warranty",
+    "price": 33222,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Air 15-inch 2024 M3 / 8GB RAM / 256GB SSD / 10-Core GPU / Midnight",
+    "price": 85900,
+    "status": "Open Box",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "APPLE MACBOOK PRO 16 INCH - 8C 4.8GHz / NEWEST OS - MASSIVE 1TB SSD",
+    "price": 62500,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 15 Core i7 16GB 256GB Gray 2019 - Used Good",
+    "price": 29399,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingApple MacBook Pro A1398 Retina i7 16GB RAM Laptop Notebook PC O15",
+    "price": 12500,
+    "status": "Pre-Owned",
+    "shipping": 999,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro Retina 15'' (512GB SSD, Core i7-4770HQ, 2.2GHz, 16GB RAM)",
+    "price": 22999,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "MacBook Pro 13 Touch Bar 2020 Intel Core i5 8GB 512GB 1.4 GHz Space Gray",
+    "price": 34499,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook Core M3 1.2GHz 8GB RAM 256GB SSD 12\" MNYF2LL/A (2017), Gray, Good",
+    "price": 21999,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 15\" Retina 2.2GHz Intel Core i7 16GB RAM 256GB SSD 2014, Good",
+    "price": 21999,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "\u2705 Apple MacBook 12\" 2016-2017 Retina | m3/m5/m7/i5/i7 | 8-16GB | 256-512GB",
+    "price": 25900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Air Core i3 1.1GHz 8GB RAM 128GB SSD 13\" MWTK2LL/A (2020) Good",
+    "price": 28997,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook Pro 15\" Retina - i7 16GB RAM + 256GB to 512GB SSD - OS Big Sur",
+    "price": 22900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook 12\" Space Gray  (2016) | m5 / 8GB / 512GB SSD | Retina | EXCELLENT",
+    "price": 28923,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook unibody 13\u201d 8GB RAM 500GB HDD core 2 duo 2009",
+    "price": 17500,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Air Core i7 2.2GHz 256GB SSD 13\" Z0UU1LL/A (2017) Used-Excellent",
+    "price": 18399,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 15\" Retina / Quad Core i7 /16GB/256GB SSD HD. Big Sur. Grade C",
+    "price": 17900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook Pro 13\" Laptop - i5 2.5GHZ 8GB 256GB SSD - OS Catalina + Warranty",
+    "price": 13900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingApple MacBook Pro 15 inch 2018 A1990 (512 GB SSD Intel Core i7 2.6GHz 16GB RAM",
+    "price": 33000,
+    "status": "Pre-Owned",
+    "shipping": 1021,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Air 13\" M3 chip 16GB RAM 256GB SSD Silver MC8H4LL/A 2024 Model",
+    "price": 79900,
+    "status": "Open Box",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "2020 Apple MacBook Air 13\" i3 1.1GHz/8GB/128GB SSD (Space Gray) A2179",
+    "price": 27999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingMACBOOK PRO 2017 A1708 FAIR SHAPE EVERYTHING WORKS!",
+    "price": 16000,
+    "status": "Pre-Owned",
+    "shipping": 2515,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Macbook Pro 13 Inch Touch Bar 3.5GHz Turbo i5 A1706 Monterey FREE 1 Yr Warranty",
+    "price": 43900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook Pro 16\" Core i9-9980HK 64GB RAM 1TB MVVM2LL/A AMD Radeon Pro 5600M",
+    "price": 77699,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 13.3'' intel Core i5 2.5GHz 16GB RAM 500GB SSD W/Cover  Turbo",
+    "price": 27500,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Air A1466 13.3\" Intel I5 CPU 8GB RAM 250 SSD",
+    "price": 18999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Core Intel M3 8GB RAM 256GB SSD 12\" MNYK2LL/A - Space Gray - See D",
+    "price": 20100,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook M1 Pro 16\" 2021 10-core CPU 16-core GPU 512GB SSD 16GB Ram Gray",
+    "price": 92900,
+    "status": "Excellent - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingM1 MacBook Air, Gray, Model A2337,  16GB/1TB",
+    "price": 24999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Air 13 Core i5 8GB 256GB Silver 2017 - Used Very Good",
+    "price": 14499,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 13\" 1TB SSD 16GB RAM i5 2.5Ghz Pre-Retina -Warranty",
+    "price": 24402,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 16 Core i9 64GB 512GB Gray 2019 - Used Very Good",
+    "price": 53999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingApple MacBook Air 13 in 2022 Silver/Apple M2 3.49 GHz, 256 GB 8 GB 10-Core",
+    "price": 50000,
+    "status": "Open Box",
+    "shipping": 1507,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Air 13\" A1466 2017 Intel i5 1.80GHz 8GB RAM 128GB SSD macOS 12 C-G",
+    "price": 12999,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 16\" (2021) Silver A2485 M1 Pro 16GB RAM 512GB B-Grade",
+    "price": 89999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingApple MacBook Air 13-inch 2024 M3 / 8GB RAM / 256GB SSD / 8-Core GPU / Midnight",
+    "price": 79900,
+    "status": "Open Box",
+    "shipping": 1507,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "New Listing2020 MacBook Pro W/ Magic Touchbar",
+    "price": 28000,
+    "status": "Pre-Owned",
+    "shipping": 2115,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook Air 13\" 2015 | i5 8GB RAM 512GB SSD | Monterey + 2 Year Warranty",
+    "price": 14155,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook Air 13.6\" M2 Chip 8GB RAM 256GB SSD Midnight MLY33LL/A 2022 Model",
+    "price": 62900,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 13 Inch 2.5ghz 8GB Ram 500gb A 1278 10.15 Catalina + Charger",
+    "price": 10500,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Air 13\" True Tone 2019 i5-8210Y 1.6GHz 8GB RAM 256GB SSD Ventura",
+    "price": 23900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Unibody 13.3\u201d 2.26GHz intel Core 2 Duo 8GB RAM 256GB SSD",
+    "price": 19900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro MWP42LL/A 13.3\" Retina i5, 16GB RAM, 512GB SSD, IrisPlus 2019",
+    "price": 37500,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro A2251 13.3\" Intel Core i5-1038NG7 2.0Ghz 32GB RAM 512GB SSD",
+    "price": 39999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook Pro 15\" Retina - i7 16GB 256GB SSD - Big Sur - Warranty Grade C",
+    "price": 19900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "EXCELLENT Apple MacBook Pro 13 RETINA INTEL CORE i5 TURBO 8GB RAM 256GB SSD",
+    "price": 29302,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "2018 Apple MacBook Air A1932 1.6 GHz Core i5 13\" 8GB RAM 256GB SSD, Silver, Good",
+    "price": 25499,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingNO BOOT - Apple MacBook Pro  13\u201d 2017 i5 2.3GHz 16GB 256GB SSD",
+    "price": 10000,
+    "status": "Parts Only",
+    "shipping": 905,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook Pro 15\" Laptop - Quad Core i7 + 16GB + 256GB to 1TB SSD - Monterey",
+    "price": 23900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Air A2337 (Late 2020) Laptop 13\" M1 CPU 16GB RAM 256 SSD Gray",
+    "price": 49999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "APPLE MACBOOK PRO A2141 BTO/CTO | CORE I7-9750H | 512GB | 16GB RAM | SEQUOIA",
+    "price": 40999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "15\" Apple MacBook Pro - 3.8Ghz Turbo i7 16GB 256GB SSD Touch Bar - 1 Yr Warranty",
+    "price": 49900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro (2019) Laptop Intel Core i7-9750H 32GB 1TB SSD macOS MVVL2LL/A",
+    "price": 60553,
+    "status": "Excellent - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingApple 2019 MacBook Air i5 1.60GHz 16GB RAM 512GB SSD - Excellent",
+    "price": 22500,
+    "status": "Pre-Owned",
+    "shipping": 1998,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook Core M3 1.2GHz 8GB RAM 256GB SSD 12\" MNYF2LL/A (2017), Gray, Good",
+    "price": 21999,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook Air M2 2022 13\" 8-Core CPU 8-Core GPU 256GB SSD 8GB Ram Gray",
+    "price": 64999,
+    "status": "Excellent - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingMacBook Air M2 13 inch 16gb RAM,  512gb SSD, 8-Core GPU, Space Gray",
+    "price": 64900,
+    "status": "Pre-Owned",
+    "shipping": 1995,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "2017 Apple MacBook Air 13\" i5 1.8GHz 8GB RAM 512GB SSD -WARRANTY",
+    "price": 38808,
+    "status": "Open Box",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 15\" Retina 2.2GHz Intel Core i7 16GB RAM 256GB SSD 2014, Good",
+    "price": 21999,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple 2020 MacBook Pro 13\" M1 3.2GHz (8-Core GPU) 8GB RAM 512GB SSD - Fair",
+    "price": 49999,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "APPLE MACBOOK AIR 2013 INTEL I5-4TH GEN 1.30GHz 4GB RAM 128GB SSD macOS BIG SUR.",
+    "price": 7998,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "13\" Apple MacBook Air 2012 | 1.8 i5 8GB 128GB SSD Catalina + Good + Warranty",
+    "price": 10400,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "MacBook Pro 16 inch 2021 | M1 Pro 10 CPU | 16 GPU | 32GB RAM 512GB SSD Gray | \uf8ff",
+    "price": 93900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New Listing2021 MacBook Pro  With M1 Chip  (13.3 Inch)  16GB  1TB SSD",
+    "price": 59999,
+    "status": "Open Box",
+    "shipping": 2010,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 13\u201d 2.5ghz Core i5 16GB Ram 1000GB HDD A1278 OS 10.15 Catalina",
+    "price": 11500,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Air 15-inch 2024 M3 / 8GB RAM / 256GB SSD / 10-Core GPU / Midnight",
+    "price": 85900,
+    "status": "Open Box",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook Pro 16'' Retina Core i9 2.4GHz 64GB RAM 1TB SSD A2141 Silver 2019",
+    "price": 70800,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple 2023 MacBook Pro Laptop M3 chip with 8\u2011core CPU, 10\u2011core GPU: 14.2-inch",
+    "price": 101495,
+    "status": "Certified - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Air 13 Core i7 8GB 128GB Silver 2015 - Used Very Good",
+    "price": 11999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "13\" Apple MACBOOK PRO Silver | USBC | 3.1GHz | 256GB | WARRANTY",
+    "price": 29900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Air 13.3\" Core i3 1.10 GHz 8GB 128GB SSD MWTJ2LL/A",
+    "price": 29999,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "\u2705 Apple MacBook 12\" 2016-2017 Retina | m3/m5/m7/i5/i7 | 8-16GB | 256-512GB",
+    "price": 25900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "15\" MacBook Pro 2017 3.1 i7 16GB RAM 512GB SSD 560 + BAD TOUCH BAR, LCD STAINS",
+    "price": 22900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Air 13.3\" Core i5 8G RAM 128GB SSD Silver MQD32LL/A In Retail Box",
+    "price": 47995,
+    "status": "Brand New",
+    "shipping": 1420,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Apple 14.2 MacBook Pro M2 Max 32GB RAM 1TB SSD 2023 Silver MPHK3LL/A Good",
+    "price": 165495,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "MacBook Pro 16 Space Gray 2021 3.2 GHz M1 Pro 10-Core CPU 16-Core GPU 32GB 512GB",
+    "price": 99999,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New Listing2021 MacBook Pro  With M1 Chip  (13.3 Inch)  16GB  1TB SSD",
+    "price": 59999,
+    "status": "Open Box",
+    "shipping": 2010,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "MacBook Pro 16 inch 2021 | M1 Pro 10 CPU | 16 GPU | 32GB RAM 512GB SSD Gray | \uf8ff",
+    "price": 93900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 13\u201d 2.5ghz Core i5 16GB Ram 1000GB HDD A1278 OS 10.15 Catalina",
+    "price": 11500,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Air 15-inch 2024 M3 / 8GB RAM / 256GB SSD / 10-Core GPU / Midnight",
+    "price": 85900,
+    "status": "Open Box",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook Pro 16'' Retina Core i9 2.4GHz 64GB RAM 1TB SSD A2141 Silver 2019",
+    "price": 70800,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MACBOOK PRO 15\" 16GB i7 3.4Ghz - RETINA 1TB SSD Monterey - Warranty",
+    "price": 49900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple 2023 MacBook Pro Laptop M3 chip with 8\u2011core CPU, 10\u2011core GPU: 14.2-inch",
+    "price": 101495,
+    "status": "Certified - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Air 13 Core i7 8GB 128GB Silver 2015 - Used Very Good",
+    "price": 11999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
     "items_sold": null
   },
   {
@@ -2541,6 +2085,382 @@
     "status": "Pre-Owned",
     "shipping": null,
     "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "\u2705 Apple MacBook 12\" 2016-2017 Retina | m3/m5/m7/i5/i7 | 8-16GB | 256-512GB",
+    "price": 25900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingApple MacBook Pro 13\" (512GB SSD, Intel Core i5-7267U, 8GB) Laptop",
+    "price": 21999,
+    "status": "Pre-Owned",
+    "shipping": 1844,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "APPLE MACBOOK AIR 13 INCH LAPTOP i5 | 256GB SSD | 3 YEAR WARRANTY",
+    "price": 29900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "13\" Apple MACBOOK PRO Silver | USBC | 3.1GHz | 256GB | WARRANTY",
+    "price": 29900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "OSX 2024 | 15\" MacBook Pro 2019 Touch Bar - DG i7 16GB RAM 512GB SSD + WARRANTY",
+    "price": 52900,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "MacBook Air 13 Gold 2019 1.6 GHz Intel Core i5 8GB 256GB SSD Good Condition",
+    "price": 27999,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Air Core i7 2.2GHz 256GB SSD 13\" Z0UU1LL/A (2017) Used-Fair",
+    "price": 17899,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Air 15\" Apple M3 chip 24GB RAM 512GB SSD Midnight MC9L4LL/A 2024",
+    "price": 119900,
+    "status": "Open Box",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 16\" 2023 M2 Max 1TB 2TB 4TB 8TB RAM 32GB 64GB 96GB - Very Good",
+    "price": 182599,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 15\" i7 Retina 1TB SSD 16GB 3.7Ghz Monterey -  Warranty",
+    "price": 43904,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "2019/2020 MacBook Pro 13\" Quad 4.1GHz / 16GB MEMORY / Silver / LATEST MACOS",
+    "price": 47500,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 16 M1 Max 10-Core 64GB 1TB Silver 2021 - Used Good",
+    "price": 129999,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "APPLE MACBOOK PRO 16 INCH - 8C 4.8GHz / NEWEST OS - MASSIVE 1TB SSD",
+    "price": 62500,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 14,2 A1706 13.3\" Retina 3.10GHz 8GB 256GB Gray Very Good",
+    "price": 26900,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 2021 16in M1 Pro 10 CPU 16 GPU 16GB RAM 512GB SSD Very Good",
+    "price": 85131,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple 14.2 MacBook Pro M3 Pro 12C CPU 18C GPU 36GB RAM 2TB SSD Space Black",
+    "price": 206494,
+    "status": "Brand New",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "MacBook Pro 16 2023 M2 Pro 12-Core / 19-Core GPU 32GB 512GB 3.49 GHz Space Gray",
+    "price": 147999,
+    "status": "Excellent - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New Listing2019 MacBook Air",
+    "price": 22500,
+    "status": "Pre-Owned",
+    "shipping": 2060,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Apple 15.3 MacBook Air 2023 Apple M2 8GB RAM 256GB|512GB SSD Excellent",
+    "price": 83495,
+    "status": "Excellent - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook 12\" - Core m3 | m5 | m7 - 8GB RAM - 256GB | 512GB SSD - Very Good",
+    "price": 19945,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 15.4-Inch Intel Core i7, 32GB RAM, 1TB SSD, Space Gray",
+    "price": 43900,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "2017 Apple MacBook Pro 13\" i5 3.1GHz/16GB/256GB - (Space Gray) w/1 Year Warranty",
+    "price": 27799,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook Pro 13 (2015) Laptop | i7 16GB + 256 to 512GB SSD | MacOS Monterey",
+    "price": 21755,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingMacBook Air m3 & 11+13 Inch iPad Pro M4",
+    "price": 75000,
+    "status": "Brand New",
+    "shipping": 1759,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 15\" Laptop Retina / 256GB SSD / Quad Core i7 Turbo Warranty",
+    "price": 33222,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Air 13 2020 M1 8-Core CPU 7-Core GPU 8GB 256GB Silver Good",
+    "price": 41999,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple Macbook Pro M2 14\" 12core CPU 19-core GPU 2023 1TB SSD 16GB Ram Silver",
+    "price": 162999,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "16 inch MacBook Pro - 32GB Memory - 1TB SSD - Warranty - 8-Core i9 Processor",
+    "price": 74900,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "MONTEREY Apple MacBook Pro 15\" TOUCH BAR 3.6GHz Quad i7 Turbo 16GB RAM 256GB SSD",
+    "price": 34423,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 15\" | 2014 2.8 i7 16GB 256GB SSD Refurbished - Good",
+    "price": 22900,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 2015 13.3\" (i5-5257u, 8GB RAM, 256GB SSD, MF839LL/A), Good",
+    "price": 16999,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro MR932LL/A 15\" - (Core i7- 2.2Ghz - 16GB Ram - 512GB SSD)",
+    "price": 32995,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingMacBook Pro 2021 - Space gray (10/16 Core M1 Pro) (Not Working)",
+    "price": 40000,
+    "status": "Parts Only",
+    "shipping": 1500,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "EXCELLENT Apple 16\" MacBook Pro 2019/2020 16GB 512GB SSD 2.6 6-Core i7 OSX 2023",
+    "price": 59900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "MacBook Pro 16 Inch 512GB SSD 16GB Apple A2141 6-Core i7 OS Sequoia 1Yr Warranty",
+    "price": 89500,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple A1708 MacBook Pro i5-7360U 8GB 128GB SSD Ventura O.S. 2017 (Silver Model)",
+    "price": 19999,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 15\" 16GB i7 3.7Ghz | Retina SSD 3 Year Warranty",
+    "price": 31825,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Air 13\" / Dual Core i5/ 4GB/ 128GB SSD. MacOS BigSur",
+    "price": 12500,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "2023 SONOMA - 2018/2020 MACBOOK PRO 15 TOUCHBAR 6 CORE i7",
+    "price": 48900,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 15.4-Inch Intel Core i9, 32GB RAM, 2TB SSD, Space Gray",
+    "price": 59900,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "MacBook Pro 13 Touch Bar Space Gray 2018 2.7 GHz i7 16GB RAM 512GB SSD Very Good",
+    "price": 34499,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "New ListingApple MacBook Air 13-inch 2024 M3 / 8GB RAM / 256GB SSD / 8-Core GPU / Midnight",
+    "price": 55000,
+    "status": "Parts Only",
+    "shipping": null,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Pro 13\" 2019 Silver i7-8569U 16GB 256GB SSD A1989 MV982LL/A - LC",
+    "price": 35999,
+    "status": "Very Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Air 2018 13\" 1.6GHz Intel Core i5 8GB RAM 256GB SSD Gray",
+    "price": 17500,
+    "status": "Pre-Owned",
+    "shipping": 2130,
+    "free_returns": false,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Air A1466 i5-4260U 8GB 256GB SSD Mojave",
+    "price": 10499,
+    "status": "Good - Refurbished",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Apple MacBook Air Core i3 1.1GHz 8GB RAM 128GB SSD 13\" MWTK2LL/A (2020) Good",
+    "price": 28997,
+    "status": "Pre-Owned",
+    "shipping": null,
+    "free_returns": true,
+    "items_sold": null
+  },
+  {
+    "name": "Lot of 4 Macbook Pro 15,1 A1990 15\" Core i7 2.6GHz 32GB RAM 500GB SSD #1625",
+    "price": 99000,
+    "status": "Pre-Owned",
+    "shipping": 11229,
+    "free_returns": false,
     "items_sold": null
   }
 ]

@@ -2,6 +2,7 @@ import argparse
 import requests
 from bs4 import BeautifulSoup
 import json
+import csv
 import re
 import time
 from urllib.parse import urljoin
@@ -9,6 +10,7 @@ from urllib.parse import urljoin
 # Setup argparse
 parser = argparse.ArgumentParser(description="Download eBay search results")
 parser.add_argument("search_term", help="Search term for eBay")
+parser.add_argument("--csv", action="store_true", help="Save output as CSV instead of JSON")
 args = parser.parse_args()
 search_term = args.search_term
 
@@ -47,6 +49,10 @@ while page <= max_pages:
         sold_tag = item.select_one(".s-item__hotness, .s-item__additionalItemHotness")
 
         name = name_tag.get_text(strip=True) if name_tag else None
+        
+        # Skip eBay promotional blocks
+        if name == "Shop on eBay":
+            continue
 
         # Extract price in cents
         price = None
@@ -97,9 +103,18 @@ while page <= max_pages:
     else:
         break  # No next page found
 
-# Save to JSON
-filename = f"{search_term.replace(' ', '_')}.json"
-with open(filename, "w", encoding="utf-8") as f:
-    json.dump(items, f, indent=2)
+
+filename_base = search_term.replace(" ", "_")
+
+if args.csv:
+    filename = f"{filename_base}.csv"
+    with open(filename, "w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=["name", "price", "status", "shipping", "free_returns", "items_sold"])
+        writer.writeheader()
+        writer.writerows(items)
+else:
+    filename = f"{filename_base}.json"
+    with open(filename, "w", encoding="utf-8") as f:
+        json.dump(items, f, indent=2)
 
 print(f"Scraped {len(items)} items. Saved to {filename}.")
